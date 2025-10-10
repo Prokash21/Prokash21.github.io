@@ -1,0 +1,70 @@
+# website settings
+website:
+  title: "Joy Prokash Debnath"                  # Your name
+  description: "Computational Biologist | Transcriptomics | Machine Learning"
+  image: img/joy_prokash.png
+  site-url: https://Prokash21.github.io/
+
+  # navbar (top)
+  navbar:
+    pinned: true
+    left:
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Software"
+        href: software/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    right:
+      - icon: google
+        href: https://scholar.google.com/citations?user=s69TyxkAAAAJ&hl=en
+      - icon: github
+        href: https://github.com/Prokash21
+      - icon: twitter
+        href: https://x.com/Pro_kash21
+      - icon: linkedin
+        href: https://www.linkedin.com/in/joy-prokash-debnath-413264286/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:joy21.dev.pd@gmail.com"
+
+  # search + footer
+  search:
+    location: navbar
+    type: textbox
+  page-footer:
+    left: |
+      <span class="faux-block">&#169; 2025 Joy Prokash Debnath — CC BY-SA 4.0</span>
+#   right: |
+#     <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub</a></span>
+
+# project settings
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+# execution defaults
+execute:
+  freeze: true
+
+# HTML format/theme
+format:
+  html:
+    fontsize: 0.9em
+    theme:
+      - lux
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    page-layout: full

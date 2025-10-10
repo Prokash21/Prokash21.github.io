@@ -1,0 +1,44 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image: "img/joy_prokash.png"
+  image-shape: round
+  image-width: 22em
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=s69TyxkAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/Prokash21
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/Pro_kash21
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/joy-prokash-debnath-413264286/
+    - icon: envelope
+      text: Email
+      href: "mailto:joy21.dev.pd@gmail.com" 
+    
+---
+
+<div style="max-width: 120%; margin: 0 auto;">
+
+# **Joy Prokash Debnath**
+
+I am a **computational biologist** working at the intersection of **transcriptomics**, **single-cell genomics**, and **machine learning**. Currently, I work with the **Genomics Team at [CHRF](YOUR_LINK_HERE_CHRF)** under **[Preonath Chondrow Dev](YOUR_LINK_HERE_PREONATH)** to build **R/Python** pipelines for **cross-platform DGE**, **biomarker discovery**, and **ML-based validation**.
+
+I collaborate with **[AIBN, UQ](https://aibn.uq.edu.au/)** on **glycoRNA-based cancer biomarker** studies, and with **[BMU](https://bmu.ac.bd/)** and **[BUET](https://www.buet.ac.bd/web/#/)** on **HPV–HNSCC genomics** and **deep neural profiling** (VAE + Integrated Gradients).
+
+Previously, I completed a **B.Sc. in Biochemistry & Molecular Biology** at **[SUST](https://www.sust.edu/departments/bmb)**, where I ran full **RNA-seq** workflows, **qRT-PCR validation**, and **feature-selection ML**. Ongoing projects include **[DeepFoldChange](https://github.com/Prokash21/DeepFoldChange)** (DL that emulates statistical DGE models) and **[omicML](https://omicml.org/)** (integrative ML platform for transcriptomic biomarkers, submitted to *Bioinformatics*).
+
+—  
+
+</div>
+
+
+
+
+
