@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial | Ashis Saha</title>
-    <link>https://alorchhota.github.io/category/tutorial/</link>
-      <atom:link href="https://alorchhota.github.io/category/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tutorial | Joy Prokash Debnath</title>
+    <link>https://prokash21.github.io/category/tutorial/</link>
+      <atom:link href="https://prokash21.github.io/category/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <description>Tutorial</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 Ashis Saha</copyright><lastBuildDate>Tue, 26 Jan 2021 16:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Tue, 26 Jan 2021 16:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png</url>
       <title>Tutorial</title>
-      <link>https://alorchhota.github.io/category/tutorial/</link>
+      <link>https://prokash21.github.io/category/tutorial/</link>
     </image>
     
     <item>
       <title>How I created my website</title>
-      <link>https://alorchhota.github.io/post/2021-01-26_personal_website/</link>
+      <link>https://prokash21.github.io/post/2021-01-26_personal_website/</link>
       <pubDate>Tue, 26 Jan 2021 16:30:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/post/2021-01-26_personal_website/</guid>
+      <guid>https://prokash21.github.io/post/2021-01-26_personal_website/</guid>
       <description>&lt;p&gt;Whether one needs a personal website for professional growth is out of the question. Of course, we need it. Instead, the question is: &lt;em&gt;how attractive and elegant is the website?&lt;/em&gt; Being a Ph.D. student, it&amp;rsquo;s not a surprise that I find an academic-theme website very attractive. Developing such a website from the scratch needs huge time and effort. Luckily, there are open source templates such as &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo templates&lt;/a&gt;. Recently I created &lt;a href=&#34;https://alorchhota.github.io/&#34; target=&#34;_blank&#34;&gt;my website&lt;/a&gt; using such a template. Below is a blurred screenshot of the site.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://alorchhota.github.io/posts/website_preview.png&#34; alt=&#34;A blurred screenshot of the site&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://prokash21.github.io/posts/website_preview.png&#34; alt=&#34;A blurred screenshot of the site&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What I like about the website are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;It is simple in design, attractive in appearance, and elegant in presentation.&lt;/li&gt;
@@ -92,8 +92,8 @@ serve_site()
 # Serving the directory . at http://localhost:4321
 # Launched the hugo server in the background (process ID: 9296). To stop it, call blogdown::stop_server() or restart the R session.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;At this point, the template website was visible in the RStudio &lt;em&gt;Viewer&lt;/em&gt; panel (see the image below).
-&lt;img src=&#34;https://alorchhota.github.io/posts/rstudio_website.png&#34; alt=&#34;Sample website view in RStudio&#34;&gt;&lt;/p&gt;
+&lt;p&gt;At this point, the template website was visible in the RStudio &lt;em&gt;Viewer&lt;/em&gt; panel (see the image below). 
+&lt;img src=&#34;https://prokash21.github.io/posts/rstudio_website.png&#34; alt=&#34;Sample website view in RStudio&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When I clicked on the button as marked by a red circle, the website opened in a web browser. Generally, the website updated updated each time I saved any change. Occasionally, I needed to stop the site by calling &lt;code&gt;stop_server()&lt;/code&gt;, and then restart by calling &lt;code&gt;build_site()&lt;/code&gt; and &lt;code&gt;serve_site()&lt;/code&gt; manually.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -465,7 +465,7 @@ Whether one needs a personal website ...
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On the Github website, I went to &lt;em&gt;Settings&lt;/em&gt; of my repository, scrolled to the &lt;em&gt;Github Pages&lt;/em&gt; section, and set &lt;em&gt;master&lt;/em&gt; branch + &lt;em&gt;/docs&lt;/em&gt; folder as the source. Consequently, my site was published at &lt;a href=&#34;https://alorchhota.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://alorchhota.github.io/&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://alorchhota.github.io/posts/gh_page_config.png&#34; alt=&#34;Github Pages Configuration&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://prokash21.github.io/posts/gh_page_config.png&#34; alt=&#34;Github Pages Configuration&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Note:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The repository must be public to use Github Pages for free.&lt;/li&gt;

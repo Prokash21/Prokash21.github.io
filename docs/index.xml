@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ashis Saha</title>
-    <link>https://alorchhota.github.io/</link>
-      <atom:link href="https://alorchhota.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ashis Saha</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 Ashis Saha</copyright><lastBuildDate>Fri, 29 Jan 2021 16:00:00 +0000</lastBuildDate>
+    <title>Joy Prokash Debnath</title>
+    <link>https://prokash21.github.io/</link>
+      <atom:link href="https://prokash21.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joy Prokash Debnath</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Fri, 29 Jan 2021 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Ashis Saha</title>
-      <link>https://alorchhota.github.io/</link>
+      <url>https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png</url>
+      <title>Joy Prokash Debnath</title>
+      <link>https://prokash21.github.io/</link>
     </image>
     
     <item>
       <title>Snakemake Intro</title>
-      <link>https://alorchhota.github.io/talk/ashg_2015/</link>
+      <link>https://prokash21.github.io/talk/ashg_2015/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/talk/ashg_2015/</guid>
+      <guid>https://prokash21.github.io/talk/ashg_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How I created my website</title>
-      <link>https://alorchhota.github.io/post/2021-01-26_personal_website/</link>
+      <link>https://prokash21.github.io/post/2021-01-26_personal_website/</link>
       <pubDate>Tue, 26 Jan 2021 16:30:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/post/2021-01-26_personal_website/</guid>
+      <guid>https://prokash21.github.io/post/2021-01-26_personal_website/</guid>
       <description>&lt;p&gt;Whether one needs a personal website for professional growth is out of the question. Of course, we need it. Instead, the question is: &lt;em&gt;how attractive and elegant is the website?&lt;/em&gt; Being a Ph.D. student, it&amp;rsquo;s not a surprise that I find an academic-theme website very attractive. Developing such a website from the scratch needs huge time and effort. Luckily, there are open source templates such as &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo templates&lt;/a&gt;. Recently I created &lt;a href=&#34;https://alorchhota.github.io/&#34; target=&#34;_blank&#34;&gt;my website&lt;/a&gt; using such a template. Below is a blurred screenshot of the site.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://alorchhota.github.io/posts/website_preview.png&#34; alt=&#34;A blurred screenshot of the site&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://prokash21.github.io/posts/website_preview.png&#34; alt=&#34;A blurred screenshot of the site&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What I like about the website are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;It is simple in design, attractive in appearance, and elegant in presentation.&lt;/li&gt;
@@ -100,8 +100,8 @@ serve_site()
 # Serving the directory . at http://localhost:4321
 # Launched the hugo server in the background (process ID: 9296). To stop it, call blogdown::stop_server() or restart the R session.
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;At this point, the template website was visible in the RStudio &lt;em&gt;Viewer&lt;/em&gt; panel (see the image below).
-&lt;img src=&#34;https://alorchhota.github.io/posts/rstudio_website.png&#34; alt=&#34;Sample website view in RStudio&#34;&gt;&lt;/p&gt;
+&lt;p&gt;At this point, the template website was visible in the RStudio &lt;em&gt;Viewer&lt;/em&gt; panel (see the image below). 
+&lt;img src=&#34;https://prokash21.github.io/posts/rstudio_website.png&#34; alt=&#34;Sample website view in RStudio&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When I clicked on the button as marked by a red circle, the website opened in a web browser. Generally, the website updated updated each time I saved any change. Occasionally, I needed to stop the site by calling &lt;code&gt;stop_server()&lt;/code&gt;, and then restart by calling &lt;code&gt;build_site()&lt;/code&gt; and &lt;code&gt;serve_site()&lt;/code&gt; manually.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -473,7 +473,7 @@ Whether one needs a personal website ...
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On the Github website, I went to &lt;em&gt;Settings&lt;/em&gt; of my repository, scrolled to the &lt;em&gt;Github Pages&lt;/em&gt; section, and set &lt;em&gt;master&lt;/em&gt; branch + &lt;em&gt;/docs&lt;/em&gt; folder as the source. Consequently, my site was published at &lt;a href=&#34;https://alorchhota.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://alorchhota.github.io/&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://alorchhota.github.io/posts/gh_page_config.png&#34; alt=&#34;Github Pages Configuration&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://prokash21.github.io/posts/gh_page_config.png&#34; alt=&#34;Github Pages Configuration&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Note:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The repository must be public to use Github Pages for free.&lt;/li&gt;
@@ -513,81 +513,81 @@ git push
     
     <item>
       <title>Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis</title>
-      <link>https://alorchhota.github.io/publication/eqtlgen/</link>
+      <link>https://prokash21.github.io/publication/eqtlgen/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/eqtlgen/</guid>
+      <guid>https://prokash21.github.io/publication/eqtlgen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
-      <link>https://alorchhota.github.io/talk/buet_cs_bioinfo_2020/</link>
+      <link>https://prokash21.github.io/talk/buet_cs_bioinfo_2020/</link>
       <pubDate>Sat, 07 Nov 2020 10:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/talk/buet_cs_bioinfo_2020/</guid>
+      <guid>https://prokash21.github.io/talk/buet_cs_bioinfo_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets</title>
-      <link>https://alorchhota.github.io/publication/archie/</link>
+      <link>https://prokash21.github.io/publication/archie/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/archie/</guid>
+      <guid>https://prokash21.github.io/publication/archie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The GTEx Consortium atlas of genetic regulatory effects across human tissues</title>
-      <link>https://alorchhota.github.io/publication/gtex_v8/</link>
+      <link>https://prokash21.github.io/publication/gtex_v8/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/gtex_v8/</guid>
+      <guid>https://prokash21.github.io/publication/gtex_v8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network reconstruction for trans acting genetic loci using multi-omics data and prior information</title>
-      <link>https://alorchhota.github.io/publication/trans_network/</link>
+      <link>https://prokash21.github.io/publication/trans_network/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/trans_network/</guid>
+      <guid>https://prokash21.github.io/publication/trans_network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study</title>
-      <link>https://alorchhota.github.io/publication/covid_mr/</link>
+      <link>https://prokash21.github.io/publication/covid_mr/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/covid_mr/</guid>
+      <guid>https://prokash21.github.io/publication/covid_mr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The architecture of brain co-expression reveals the brain-wide basis of disease susceptibility</title>
-      <link>https://alorchhota.github.io/publication/brain_modules/</link>
+      <link>https://prokash21.github.io/publication/brain_modules/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/brain_modules/</guid>
+      <guid>https://prokash21.github.io/publication/brain_modules/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imputed gene associations identify replicable trans‐acting genes enriched in transcription pathways and complex traits</title>
-      <link>https://alorchhota.github.io/publication/trans_predixcan/</link>
+      <link>https://prokash21.github.io/publication/trans_predixcan/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/trans_predixcan/</guid>
+      <guid>https://prokash21.github.io/publication/trans_predixcan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest lecture on single-cell genomics</title>
-      <link>https://alorchhota.github.io/talk/sc_lecture_2019/</link>
+      <link>https://prokash21.github.io/talk/sc_lecture_2019/</link>
       <pubDate>Mon, 25 Mar 2019 12:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/talk/sc_lecture_2019/</guid>
+      <guid>https://prokash21.github.io/talk/sc_lecture_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://alorchhota.github.io/slides/example/</link>
+      <link>https://prokash21.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/slides/example/</guid>
+      <guid>https://prokash21.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -714,33 +714,33 @@ Three
     
     <item>
       <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
-      <link>https://alorchhota.github.io/publication/crossmap/</link>
+      <link>https://prokash21.github.io/publication/crossmap/</link>
       <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/crossmap/</guid>
+      <guid>https://prokash21.github.io/publication/crossmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetic effects on gene expression across human tissues</title>
-      <link>https://alorchhota.github.io/publication/gtex_v6/</link>
+      <link>https://prokash21.github.io/publication/gtex_v6/</link>
       <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/gtex_v6/</guid>
+      <guid>https://prokash21.github.io/publication/gtex_v6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-expression networks reveal the tissue-specific regulation of transcription and splicing</title>
-      <link>https://alorchhota.github.io/publication/twn/</link>
+      <link>https://prokash21.github.io/publication/twn/</link>
       <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/twn/</guid>
+      <guid>https://prokash21.github.io/publication/twn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>https://alorchhota.github.io/project/example/</link>
+      <link>https://prokash21.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/project/example/</guid>
+      <guid>https://prokash21.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -751,25 +751,25 @@ Three
     
     <item>
       <title>iCOSSY: An online tool for context-specific subnetwork discovery from gene expression data</title>
-      <link>https://alorchhota.github.io/publication/icossy/</link>
+      <link>https://prokash21.github.io/publication/icossy/</link>
       <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/icossy/</guid>
+      <guid>https://prokash21.github.io/publication/icossy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automatic context-specific subnetwork discovery from large interaction networks</title>
-      <link>https://alorchhota.github.io/publication/cossy/</link>
+      <link>https://prokash21.github.io/publication/cossy/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/publication/cossy/</guid>
+      <guid>https://prokash21.github.io/publication/cossy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene Interaction-Level Cancer Classification using Gene Expression Profiles</title>
-      <link>https://alorchhota.github.io/talk/tbc_2012/</link>
+      <link>https://prokash21.github.io/talk/tbc_2012/</link>
       <pubDate>Sat, 13 Oct 2012 16:45:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/talk/tbc_2012/</guid>
+      <guid>https://prokash21.github.io/talk/tbc_2012/</guid>
       <description></description>
     </item>
     

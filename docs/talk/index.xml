@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Ashis Saha</title>
-    <link>https://alorchhota.github.io/talk/</link>
-      <atom:link href="https://alorchhota.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <title>Recent &amp; Upcoming Talks | Joy Prokash Debnath</title>
+    <link>https://prokash21.github.io/talk/</link>
+      <atom:link href="https://prokash21.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020-2021 Ashis Saha</copyright><lastBuildDate>Fri, 29 Jan 2021 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Fri, 29 Jan 2021 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://alorchhota.github.io/talk/</link>
+      <link>https://prokash21.github.io/talk/</link>
     </image>
     
     <item>
       <title>Snakemake Intro</title>
-      <link>https://alorchhota.github.io/talk/ashg_2015/</link>
+      <link>https://prokash21.github.io/talk/ashg_2015/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/talk/ashg_2015/</guid>
+      <guid>https://prokash21.github.io/talk/ashg_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
-      <link>https://alorchhota.github.io/talk/buet_cs_bioinfo_2020/</link>
+      <link>https://prokash21.github.io/talk/buet_cs_bioinfo_2020/</link>
       <pubDate>Sat, 07 Nov 2020 10:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/talk/buet_cs_bioinfo_2020/</guid>
+      <guid>https://prokash21.github.io/talk/buet_cs_bioinfo_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest lecture on single-cell genomics</title>
-      <link>https://alorchhota.github.io/talk/sc_lecture_2019/</link>
+      <link>https://prokash21.github.io/talk/sc_lecture_2019/</link>
       <pubDate>Mon, 25 Mar 2019 12:00:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/talk/sc_lecture_2019/</guid>
+      <guid>https://prokash21.github.io/talk/sc_lecture_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene Interaction-Level Cancer Classification using Gene Expression Profiles</title>
-      <link>https://alorchhota.github.io/talk/tbc_2012/</link>
+      <link>https://prokash21.github.io/talk/tbc_2012/</link>
       <pubDate>Sat, 13 Oct 2012 16:45:00 +0000</pubDate>
-      <guid>https://alorchhota.github.io/talk/tbc_2012/</guid>
+      <guid>https://prokash21.github.io/talk/tbc_2012/</guid>
       <description></description>
     </item>
     

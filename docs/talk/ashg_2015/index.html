@@ -27,7 +27,7 @@
   
   
 
-  <meta name="author" content="Ashis Saha">
+  <meta name="author" content="Joy Prokash Debnath">
 
   
   
@@ -37,7 +37,7 @@
   <meta name="description" content="A tutorial on how to use Snakemake on MARCC (a SLURM-based cluster).">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://alorchhota.github.io/talk/ashg_2015/">
+  <link rel="alternate" hreflang="en-us" href="https://prokash21.github.io/talk/ashg_2015/">
 
   
 
@@ -247,6 +247,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-13ZYPT4T7S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-13ZYPT4T7S', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -258,10 +296,10 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://alorchhota.github.io/talk/ashg_2015/">
+  <link rel="canonical" href="https://prokash21.github.io/talk/ashg_2015/">
 
   
   
@@ -276,11 +314,11 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Ashis Saha">
-  <meta property="og:url" content="https://alorchhota.github.io/talk/ashg_2015/">
-  <meta property="og:title" content="Snakemake Intro | Ashis Saha">
-  <meta property="og:description" content="A tutorial on how to use Snakemake on MARCC (a SLURM-based cluster)."><meta property="og:image" content="https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="Joy Prokash Debnath">
+  <meta property="og:url" content="https://prokash21.github.io/talk/ashg_2015/">
+  <meta property="og:title" content="Snakemake Intro | Joy Prokash Debnath">
+  <meta property="og:description" content="A tutorial on how to use Snakemake on MARCC (a SLURM-based cluster)."><meta property="og:image" content="https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2021-02-01T00:00:00&#43;00:00">
@@ -304,7 +342,7 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://alorchhota.github.io/talk/ashg_2015/"
+    "@id": "https://prokash21.github.io/talk/ashg_2015/"
   },
   "name": "Snakemake Intro",
   
@@ -330,7 +368,7 @@
   
   "performer": {
     "@type": "Person",
-    "name": "Ashis Saha"
+    "name": "Joy Prokash Debnath"
   },
   
   "description": "A tutorial on how to use Snakemake on MARCC (a SLURM-based cluster)."
@@ -349,7 +387,7 @@
 
 
 
-  <title>Snakemake Intro | Ashis Saha</title>
+  <title>Snakemake Intro | Joy Prokash Debnath</title>
 
 </head>
 
@@ -414,7 +452,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Ashis Saha</a>
+      <a class="navbar-brand" href="/">Joy Prokash Debnath</a>
     </div>
     
 
@@ -427,7 +465,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Ashis Saha</a>
+      <a class="navbar-brand" href="/">Joy Prokash Debnath</a>
     </div>
     
 
@@ -949,7 +987,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://alorchhota.github.io/talk/ashg_2015/&amp;text=Snakemake%20Intro" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://prokash21.github.io/talk/ashg_2015/&amp;text=Snakemake%20Intro" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -962,7 +1000,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://alorchhota.github.io/talk/ashg_2015/&amp;t=Snakemake%20Intro" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://prokash21.github.io/talk/ashg_2015/&amp;t=Snakemake%20Intro" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -975,7 +1013,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Snakemake%20Intro&amp;body=https://alorchhota.github.io/talk/ashg_2015/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Snakemake%20Intro&amp;body=https://prokash21.github.io/talk/ashg_2015/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -988,7 +1026,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://alorchhota.github.io/talk/ashg_2015/&amp;title=Snakemake%20Intro" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://prokash21.github.io/talk/ashg_2015/&amp;title=Snakemake%20Intro" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1001,7 +1039,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Snakemake%20Intro%20https://alorchhota.github.io/talk/ashg_2015/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Snakemake%20Intro%20https://prokash21.github.io/talk/ashg_2015/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1014,7 +1052,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://alorchhota.github.io/talk/ashg_2015/&amp;title=Snakemake%20Intro" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://prokash21.github.io/talk/ashg_2015/&amp;title=Snakemake%20Intro" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1047,12 +1085,12 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://alorchhota.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hud3d622ca79a5b7db2fa01fad9b5ee04b_227795_270x270_fill_q75_lanczos_center.jpg" alt="Ashis Saha"></a>
+      <a href="https://prokash21.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu0c08a58e9a2b24daac8e395b98fec695_165793_270x270_fill_lanczos_center_2.png" alt="Joy Prokash Debnath"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://alorchhota.github.io/">Ashis Saha</a></h5>
-      <h6 class="card-subtitle">Principal Scientific Researcher</h6>
+      <h5 class="card-title"><a href="https://prokash21.github.io/">Joy Prokash Debnath</a></h5>
+      <h6 class="card-subtitle">Graduate Research Assistant</h6>
       <p class="card-text">My research interests include computational biology and machine learning.</p>
       <ul class="network-icon" aria-hidden="true">
   
@@ -1066,7 +1104,7 @@
     
     
     <li>
-      <a href="mailto:alorchhota@gmail.com" >
+      <a href="mailto:joy21.dev.pd@gmail.com" >
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -1081,7 +1119,7 @@
       
     
     <li>
-      <a href="https://scholar.google.co.uk/citations?user=e6Ku7IIAAAAJ" target="_blank" rel="noopener">
+      <a href="https://scholar.google.com/citations?user=s69TyxkAAAAJ&amp;hl=en" target="_blank" rel="noopener">
         <i class="ai ai-google-scholar"></i>
       </a>
     </li>
@@ -1098,7 +1136,7 @@
       
     
     <li>
-      <a href="https://github.com/alorchhota" target="_blank" rel="noopener">
+      <a href="https://github.com/Prokash21" target="_blank" rel="noopener">
         <i class="fab fa-github"></i>
       </a>
     </li>
@@ -1115,7 +1153,7 @@
       
     
     <li>
-      <a href="https://twitter.com/ashissaha123" target="_blank" rel="noopener">
+      <a href="https://x.com/Pro_kash21" target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
@@ -1132,7 +1170,7 @@
       
     
     <li>
-      <a href="https://www.linkedin.com/in/ashissaha/" target="_blank" rel="noopener">
+      <a href="https://www.linkedin.com/in/joy-prokash-debnath-413264286/" target="_blank" rel="noopener">
         <i class="fab fa-linkedin"></i>
       </a>
     </li>
@@ -1147,7 +1185,22 @@
       
     
     <li>
-      <a href="/media/Ashis_Saha_CV.pdf" >
+      <a href="https://orcid.org/0009-0007-2695-4098" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/media/JPD_CV_V1.pdf" >
         <i class="ai ai-cv"></i>
       </a>
     </li>
@@ -1181,7 +1234,7 @@
       return;
     }
     var d = document, s = d.createElement('script'); s.async = true;
-    s.src = 'https://' + "alorchhotagithubio" + '.disqus.com/embed.js';
+    s.src = 'https://' + "prokash21githubio" + '.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
@@ -1219,7 +1272,7 @@
   
 
   <p class="powered-by">
-    © 2020-2021 Ashis Saha
+    © 2025-2026 Joy Prokash Debnath
   </p>
 
   
@@ -1365,7 +1418,7 @@
 
     
     
-    <script id="dsq-count-scr" src="https://alorchhotagithubio.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="https://prokash21githubio.disqus.com/count.js" async></script>
     
 
     

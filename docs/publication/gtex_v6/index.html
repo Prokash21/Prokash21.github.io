@@ -27,7 +27,7 @@
   
   
 
-  <meta name="author" content="Ashis Saha">
+  <meta name="author" content="Joy Prokash Debnath">
 
   
   
@@ -37,7 +37,7 @@
   <meta name="description" content="Characterization of the molecular function of the human genome and its variation across individuals is essential for identifying the cellular mechanisms that underlie human genetic traits and diseases. The Genotype-Tissue Expression (GTEx) project aims to characterize variation in gene expression levels across individuals and diverse tissues of the human body, many of which are not easily accessible. Here we describe genetic effects on gene expression levels across 44 human tissues. We find that local genetic variation affects gene expression levels for the majority of genes, and we further identify inter-chromosomal genetic effects for 93 genes and 112 loci. On the basis of the identified genetic effects, we characterize patterns of tissue specificity, compare local and distal effects, and evaluate the functional properties of the genetic effects. We also demonstrate that multi-tissue, multi-individual data can be used to identify genes and pathways affected by human disease-associated variation, enabling a mechanistic interpretation of gene regulation and the genetic basis of disease.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://alorchhota.github.io/publication/gtex_v6/">
+  <link rel="alternate" hreflang="en-us" href="https://prokash21.github.io/publication/gtex_v6/">
 
   
 
@@ -247,6 +247,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-13ZYPT4T7S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-13ZYPT4T7S', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -258,10 +296,10 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://alorchhota.github.io/publication/gtex_v6/">
+  <link rel="canonical" href="https://prokash21.github.io/publication/gtex_v6/">
 
   
   
@@ -276,11 +314,11 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Ashis Saha">
-  <meta property="og:url" content="https://alorchhota.github.io/publication/gtex_v6/">
-  <meta property="og:title" content="Genetic effects on gene expression across human tissues | Ashis Saha">
-  <meta property="og:description" content="Characterization of the molecular function of the human genome and its variation across individuals is essential for identifying the cellular mechanisms that underlie human genetic traits and diseases. The Genotype-Tissue Expression (GTEx) project aims to characterize variation in gene expression levels across individuals and diverse tissues of the human body, many of which are not easily accessible. Here we describe genetic effects on gene expression levels across 44 human tissues. We find that local genetic variation affects gene expression levels for the majority of genes, and we further identify inter-chromosomal genetic effects for 93 genes and 112 loci. On the basis of the identified genetic effects, we characterize patterns of tissue specificity, compare local and distal effects, and evaluate the functional properties of the genetic effects. We also demonstrate that multi-tissue, multi-individual data can be used to identify genes and pathways affected by human disease-associated variation, enabling a mechanistic interpretation of gene regulation and the genetic basis of disease."><meta property="og:image" content="https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="Joy Prokash Debnath">
+  <meta property="og:url" content="https://prokash21.github.io/publication/gtex_v6/">
+  <meta property="og:title" content="Genetic effects on gene expression across human tissues | Joy Prokash Debnath">
+  <meta property="og:description" content="Characterization of the molecular function of the human genome and its variation across individuals is essential for identifying the cellular mechanisms that underlie human genetic traits and diseases. The Genotype-Tissue Expression (GTEx) project aims to characterize variation in gene expression levels across individuals and diverse tissues of the human body, many of which are not easily accessible. Here we describe genetic effects on gene expression levels across 44 human tissues. We find that local genetic variation affects gene expression levels for the majority of genes, and we further identify inter-chromosomal genetic effects for 93 genes and 112 loci. On the basis of the identified genetic effects, we characterize patterns of tissue specificity, compare local and distal effects, and evaluate the functional properties of the genetic effects. We also demonstrate that multi-tissue, multi-individual data can be used to identify genes and pathways affected by human disease-associated variation, enabling a mechanistic interpretation of gene regulation and the genetic basis of disease."><meta property="og:image" content="https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
@@ -307,7 +345,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://alorchhota.github.io/publication/gtex_v6/"
+    "@id": "https://prokash21.github.io/publication/gtex_v6/"
   },
   "headline": "Genetic effects on gene expression across human tissues",
   
@@ -321,10 +359,10 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "Ashis Saha",
+    "name": "Joy Prokash Debnath",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Characterization of the molecular function of the human genome and its variation across individuals is essential for identifying the cellular mechanisms that underlie human genetic traits and diseases. The Genotype-Tissue Expression (GTEx) project aims to characterize variation in gene expression levels across individuals and diverse tissues of the human body, many of which are not easily accessible. Here we describe genetic effects on gene expression levels across 44 human tissues. We find that local genetic variation affects gene expression levels for the majority of genes, and we further identify inter-chromosomal genetic effects for 93 genes and 112 loci. On the basis of the identified genetic effects, we characterize patterns of tissue specificity, compare local and distal effects, and evaluate the functional properties of the genetic effects. We also demonstrate that multi-tissue, multi-individual data can be used to identify genes and pathways affected by human disease-associated variation, enabling a mechanistic interpretation of gene regulation and the genetic basis of disease."
@@ -345,7 +383,7 @@
 
 
 
-  <title>Genetic effects on gene expression across human tissues | Ashis Saha</title>
+  <title>Genetic effects on gene expression across human tissues | Joy Prokash Debnath</title>
 
 </head>
 
@@ -410,7 +448,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Ashis Saha</a>
+      <a class="navbar-brand" href="/">Joy Prokash Debnath</a>
     </div>
     
 
@@ -423,7 +461,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Ashis Saha</a>
+      <a class="navbar-brand" href="/">Joy Prokash Debnath</a>
     </div>
     
 
@@ -951,7 +989,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://alorchhota.github.io/publication/gtex_v6/&amp;text=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://prokash21.github.io/publication/gtex_v6/&amp;text=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -964,7 +1002,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://alorchhota.github.io/publication/gtex_v6/&amp;t=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://prokash21.github.io/publication/gtex_v6/&amp;t=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -977,7 +1015,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues&amp;body=https://alorchhota.github.io/publication/gtex_v6/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues&amp;body=https://prokash21.github.io/publication/gtex_v6/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -990,7 +1028,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://alorchhota.github.io/publication/gtex_v6/&amp;title=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://prokash21.github.io/publication/gtex_v6/&amp;title=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1003,7 +1041,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues%20https://alorchhota.github.io/publication/gtex_v6/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues%20https://prokash21.github.io/publication/gtex_v6/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1016,7 +1054,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://alorchhota.github.io/publication/gtex_v6/&amp;title=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://prokash21.github.io/publication/gtex_v6/&amp;title=Genetic%20effects%20on%20gene%20expression%20across%20human%20tissues" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1065,7 +1103,7 @@
       return;
     }
     var d = document, s = d.createElement('script'); s.async = true;
-    s.src = 'https://' + "alorchhotagithubio" + '.disqus.com/embed.js';
+    s.src = 'https://' + "prokash21githubio" + '.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
   })();
@@ -1103,7 +1141,7 @@
   
 
   <p class="powered-by">
-    © 2020-2021 Ashis Saha
+    © 2025-2026 Joy Prokash Debnath
   </p>
 
   
@@ -1249,7 +1287,7 @@
 
     
     
-    <script id="dsq-count-scr" src="https://alorchhotagithubio.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="https://prokash21githubio.disqus.com/count.js" async></script>
     
 
     

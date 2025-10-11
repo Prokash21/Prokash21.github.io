@@ -27,17 +27,17 @@
   
   
 
-  <meta name="author" content="Ashis Saha">
+  <meta name="author" content="Joy Prokash Debnath">
 
   
   
   
     
   
-  <meta name="description" content="Principal Scientific Researcher">
+  <meta name="description" content="Graduate Research Assistant">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://alorchhota.github.io/publication/">
+  <link rel="alternate" hreflang="en-us" href="https://prokash21.github.io/publication/">
 
   
 
@@ -247,23 +247,61 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-13ZYPT4T7S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-13ZYPT4T7S', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
 
   
 
+  
+
 
   
   
 
   
-  <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Ashis Saha">
+  <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Joy Prokash Debnath">
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://alorchhota.github.io/publication/">
+  <link rel="canonical" href="https://prokash21.github.io/publication/">
 
   
   
@@ -278,11 +316,11 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Ashis Saha">
-  <meta property="og:url" content="https://alorchhota.github.io/publication/">
-  <meta property="og:title" content="Publications | Ashis Saha">
-  <meta property="og:description" content="Principal Scientific Researcher"><meta property="og:image" content="https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://alorchhota.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="Joy Prokash Debnath">
+  <meta property="og:url" content="https://prokash21.github.io/publication/">
+  <meta property="og:title" content="Publications | Joy Prokash Debnath">
+  <meta property="og:description" content="Graduate Research Assistant"><meta property="og:image" content="https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-12-15T00:00:00&#43;00:00">
   
@@ -301,7 +339,7 @@
 
 
 
-  <title>Publications | Ashis Saha</title>
+  <title>Publications | Joy Prokash Debnath</title>
 
 </head>
 
@@ -366,7 +404,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Ashis Saha</a>
+      <a class="navbar-brand" href="/">Joy Prokash Debnath</a>
     </div>
     
 
@@ -379,7 +417,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Ashis Saha</a>
+      <a class="navbar-brand" href="/">Joy Prokash Debnath</a>
     </div>
     
 
@@ -851,7 +889,7 @@
       Patrick Deelen</span>, <span >
       Biao Zeng</span>, <span >
       Holger Kirsten</span>, <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Roman Kreuzhuber</span>, <span >
       Silva Kasela</span>, <span >
       Natalia Pervjakova</span>, <span >
@@ -1022,7 +1060,7 @@
   <span >
       Diptavo Dutta</span>, <span >
       Yuan He</span>, <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Marios Arvanitis</span>, <span >
       Alexis Battle</span>, <span >
       Nilanjan Chatterjee</span>
@@ -1168,7 +1206,7 @@
 
   <span >
       Johann S Hawe</span>, <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Melanie Waldenberger</span>, <span >
       Sonja Kunze</span>, <span >
       Simone Wahl</span>, <span >
@@ -1260,7 +1298,7 @@
       Sam M Lockhart</span>, <span >
       Amy M Mason</span>, <span >
       Evanthia Pashos</span>, <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Vanessa Tan</span>, <span >
       Verena Zuber</span>, <span >
       Yohan Bosse</span>, <span >
@@ -1350,7 +1388,7 @@
       Christopher L Hartl</span>, <span >
       Gokul Ramaswami</span>, <span >
       William Pembroke</span>, <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Princy Parsana</span>, <span >
       Sandrine Muller</span>, <span >
       Greta Pintacuda</span>, <span >
@@ -1429,7 +1467,7 @@
       Rodrigo Bonazzola</span>, <span >
       Angela Andaleon</span>, <span >
       Alireza Fotuhi Siahpirani</span>, <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Alexis Battle</span>, <span >
       Sushmita Roy</span>, <span >
       Hae Kyung Im</span>
@@ -1499,7 +1537,7 @@
     
 
   <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Alexis Battle</span>
   </span>
   (2018).
@@ -1666,7 +1704,7 @@
     
 
   <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Yungil Kim</span>, <span >
       Ariel D.H. Gewirtz</span>, <span >
       Brian Jo</span>, <span >
@@ -1757,7 +1795,7 @@
     
 
   <span class="author-highlighted">
-      Ashis Saha</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Co-first Author"></i>, <span >
+      Joy Prokash Debnath</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Co-first Author"></i>, <span >
       Minji Jeon</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Co-first Author"></i>, <span >
       Aik Choon Tan</span>, <span >
       Jaewoo Kang</span>
@@ -1827,7 +1865,7 @@
     
 
   <span class="author-highlighted">
-      Ashis Saha</span>, <span >
+      Joy Prokash Debnath</span>, <span >
       Aik Choon Tan</span>, <span >
       Jaewoo Kang</span>
   </span>
@@ -1902,7 +1940,7 @@
   
 
   <p class="powered-by">
-    © 2020-2021 Ashis Saha
+    © 2025-2026 Joy Prokash Debnath
   </p>
 
   
@@ -2048,7 +2086,7 @@
 
     
     
-    <script id="dsq-count-scr" src="https://alorchhotagithubio.disqus.com/count.js" async></script>
+    <script id="dsq-count-scr" src="https://prokash21githubio.disqus.com/count.js" async></script>
     
 
     
