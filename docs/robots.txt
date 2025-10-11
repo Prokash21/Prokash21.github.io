@@ -1,1 +1,3 @@
-Sitemap: https://MicTott.github.io/sitemap.xml
+User-agent: *
+
+Sitemap: https://alorchhota.github.io/sitemap.xml
