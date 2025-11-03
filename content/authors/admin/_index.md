@@ -59,7 +59,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/JPD_CV_V1.pdf
+  link: media/JPD_CV_V4_4.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "joy21.dev.pd@gmail.com"

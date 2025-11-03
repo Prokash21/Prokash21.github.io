@@ -19,3 +19,13 @@
 #    .\tools\hugo.exe server -D --bind 127.0.0.1 --port 1314
 
 # Tip: To allow access from other devices, run with --bind 0.0.0.0 and open the port in Windows Firewall.
+
+
+# if you used docs:
+cd E:\DWCT\PHD_apply\portfolio\dump_4
+# build Hugo output into docs/
+hugo --minify -d docs
+# or (if using blogdown in R) set publishDir in config and run blogdown::hugo_cmd()
+git add -A
+git commit -m "deploy: build site into docs/"
+git push origin main
