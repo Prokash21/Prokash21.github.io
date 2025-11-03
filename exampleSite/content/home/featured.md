@@ -1,5 +1,5 @@
 ---
-# An instance of the Featured widget.
+# An instance of the featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: featured Publications
 subtitle: ""
 
 content:

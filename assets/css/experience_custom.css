@@ -1,0 +1,45 @@
+/* Custom styles for Experience entries */
+/* Card-style wrapper for each experience description: right-aligned on wide screens */
+.exp-entry {
+  font-family: inherit;
+  color: #111;
+  background: #ffffff;
+  max-width: 720px;
+  margin-left: auto; /* push the card to the right side */
+  padding: 16px 18px;
+  border-radius: 10px;
+  box-shadow: 0 6px 22px rgba(15, 23, 42, 0.06);
+  border-left: 4px solid #0b63d6; /* accent */
+}
+.exp-supervisor { font-weight: 700; margin: 0 0 6px 0; }
+.exp-section-title { font-weight: 600; margin: 8px 0 4px 0; color: #0b63d6; }
+.exp-list { margin: 0 0 8px 18px; }
+.exp-list li { margin: 4px 0; }
+.exp-github { margin: 0 0 8px 0; list-style: none; padding-left: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.exp-github li { display: inline-block; margin: 0; }
+
+/* GitHub repo chips */
+.exp-github a {
+  display: inline-block;
+  background: #f5f7fb;
+  color: #0b63d6;
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  border: 1px solid rgba(11,99,214,0.08);
+  text-decoration: none;
+}
+.exp-github a:hover { background:#eef5ff; }
+
+.exp-callout { background:#fbfbfb; border-left:4px solid #0b63d6; padding:10px 12px; margin:8px 0; border-radius:6px; }
+.exp-callout a { color: #0b63d6; text-decoration: underline; }
+
+/* Responsive tweaks */
+@media (max-width: 600px) {
+  .exp-callout { padding:8px; }
+}
+
+/* Responsive: full-width cards on small screens */
+@media (max-width: 900px) {
+  .exp-entry { margin-left: 0; width: 100%; box-shadow: none; border-left: 4px solid #0b63d6; }
+}

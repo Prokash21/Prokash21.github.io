@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Joy Prokash Debnath</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_383e37df169fe683.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The GTEx Consortium atlas of genetic regulatory effects across human tissues</title>
+      <link>/publication/gtex_v8/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/gtex_v8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imputed gene associations identify replicable trans‐acting genes enriched in transcription pathways and complex traits</title>
+      <link>/publication/trans_predixcan/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/trans_predixcan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
+      <link>/publication/crossmap/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/crossmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic effects on gene expression across human tissues</title>
+      <link>/publication/gtex_v6/</link>
+      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/gtex_v6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression networks reveal the tissue-specific regulation of transcription and splicing</title>
+      <link>/publication/twn/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/twn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iCOSSY: An online tool for context-specific subnetwork discovery from gene expression data</title>
+      <link>/publication/icossy/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/icossy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic context-specific subnetwork discovery from large interaction networks</title>
+      <link>/publication/cossy/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/cossy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

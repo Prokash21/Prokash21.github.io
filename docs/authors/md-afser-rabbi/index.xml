@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Md Afser Rabbi | Joy Prokash Debnath</title>
+    <link>http://localhost:1313/authors/md-afser-rabbi/</link>
+      <atom:link href="http://localhost:1313/authors/md-afser-rabbi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Md Afser Rabbi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Genome-wide identification and characterization of m6A regulatory genes in Soybean: Insights into evolution, miRNA interactions, and stress responses</title>
+      <link>http://localhost:1313/publication/genome_wide/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/genome_wide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

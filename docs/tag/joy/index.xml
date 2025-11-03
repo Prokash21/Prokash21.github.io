@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joy | Joy Prokash Debnath</title>
+    <link>http://localhost:1314/tag/joy/</link>
+      <atom:link href="http://localhost:1314/tag/joy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright>
+    <image>
+      <url>http://localhost:1314/images/icon_hu_383e37df169fe683.png</url>
+      <title>Joy</title>
+      <link>http://localhost:1314/tag/joy/</link>
+    </image>
+    
+  </channel>
+</rss>

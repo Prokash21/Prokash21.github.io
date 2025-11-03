@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanvir Hossain | Joy Prokash Debnath</title>
+    <link>http://localhost:1313/authors/tanvir-hossain/</link>
+      <atom:link href="http://localhost:1313/authors/tanvir-hossain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tanvir Hossain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
+      <link>http://localhost:1313/publication/omicml/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/omicml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma</title>
+      <link>http://localhost:1313/publication/deep_profile/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deep_profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach</title>
+      <link>http://localhost:1313/publication/mpox_2022/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mpox_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

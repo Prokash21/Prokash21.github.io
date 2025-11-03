@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Joy Prokash Debnath</title>
+    <link>https://prokash21.github.io/publication/</link>
+      <atom:link href="https://prokash21.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright>
+    <image>
+      <url>https://prokash21.github.io/images/icon_hu_383e37df169fe683.png</url>
+      <title>Publications</title>
+      <link>https://prokash21.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>BioSalT: a multigene machine learning model for early salinity stress detection in Solanum lycopersicum</title>
+      <link>https://prokash21.github.io/publication/biosalt/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://prokash21.github.io/publication/biosalt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
+      <link>https://prokash21.github.io/publication/omicml/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://prokash21.github.io/publication/omicml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma</title>
+      <link>https://prokash21.github.io/publication/deep_profile/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://prokash21.github.io/publication/deep_profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide identification and characterization of m6A regulatory genes in Soybean: Insights into evolution, miRNA interactions, and stress responses</title>
+      <link>https://prokash21.github.io/publication/genome_wide/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://prokash21.github.io/publication/genome_wide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach</title>
+      <link>https://prokash21.github.io/publication/mpox_2022/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://prokash21.github.io/publication/mpox_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

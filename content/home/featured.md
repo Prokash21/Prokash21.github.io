@@ -1,5 +1,5 @@
 ---
-# An instance of the Featured widget.
+# An instance of the featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Selected Publications
+title: Publications & Manuscripts
 subtitle: ""
 
 content:
@@ -24,7 +24,7 @@ content:
     publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
 
 design:
   # Choose a view for the listings:

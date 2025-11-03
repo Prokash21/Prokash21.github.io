@@ -10,7 +10,7 @@ title = "Joy Prokash Debnath"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = ""
+baseurl = "https://prokash21.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -24,7 +24,7 @@ copyright = "© 2025-2026 Joy Prokash Debnath"
 publishDir = "docs"
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -33,7 +33,12 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 10  # Number of items per page in paginated lists.
+
+[pagination]
+  pagerSize = 10  # Number of items per page in paginated lists.
+# Legacy Google Analytics key (some templates expect this). If you use Google
+# Analytics replace the empty string with your tracking ID (e.g. "UA-XXXXX-Y").
+googleAnalytics = ""
 enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"

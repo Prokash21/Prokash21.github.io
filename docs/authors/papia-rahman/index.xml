@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papia Rahman | Joy Prokash Debnath</title>
+    <link>http://localhost:1313/authors/papia-rahman/</link>
+      <atom:link href="http://localhost:1313/authors/papia-rahman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Papia Rahman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma</title>
+      <link>http://localhost:1313/publication/deep_profile/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deep_profile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

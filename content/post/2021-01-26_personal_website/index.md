@@ -17,10 +17,10 @@ lastmod: "2021-01-26T16:30:00Z"
 # Is this an unpublished draft?
 draft: false
 
-# Show this page in the Featured widget?
+# Show this page in the featured widget?
 featured: false
 
-# Featured image
+# featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Blurred screenshot of the website'
@@ -266,7 +266,7 @@ The variables in the template repository are pretty self-explanatory and need no
     # Order that this section appears on the page.
     weight: 50
     
-    title: Recent Publications
+    title: Conference
     subtitle: ''
     ```
 
@@ -313,7 +313,7 @@ The variables in the template repository are pretty self-explanatory and need no
     
     tags: []
     
-    # Display this page in the Featured widget?
+    # Display this page in the featured widget?
     featured: true
     
     # Custom links (uncomment lines below)
@@ -330,7 +330,7 @@ The variables in the template repository are pretty self-explanatory and need no
     url_source: ''
     url_video: ''
     
-    # Featured image
+    # featured image
     # To use, add an image named `featured.jpg/png` to your page's folder. 
     # image:
     #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
@@ -431,10 +431,10 @@ The variables in the template repository are pretty self-explanatory and need no
     # Is this an unpublished draft?
     draft: false
     
-    # Show this page in the Featured widget?
+    # Show this page in the featured widget?
     featured: false
     
-    # Featured image
+    # featured image
     # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
     image:
       caption: 'Blurred screenshot of the website'

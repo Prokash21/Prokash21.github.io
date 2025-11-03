@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Joy Prokash Debnath</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Fri, 29 Jan 2021 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_383e37df169fe683.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Snakemake Intro</title>
+      <link>/talk/ashg_2015/</link>
+      <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
+      <guid>/talk/ashg_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
+      <link>/talk/buet_cs_bioinfo_2020/</link>
+      <pubDate>Sat, 07 Nov 2020 10:00:00 +0000</pubDate>
+      <guid>/talk/buet_cs_bioinfo_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest lecture on single-cell genomics</title>
+      <link>/talk/sc_lecture_2019/</link>
+      <pubDate>Mon, 25 Mar 2019 12:00:00 +0000</pubDate>
+      <guid>/talk/sc_lecture_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene Interaction-Level Cancer Classification using Gene Expression Profiles</title>
+      <link>/talk/tbc_2012/</link>
+      <pubDate>Sat, 13 Oct 2012 16:45:00 +0000</pubDate>
+      <guid>/talk/tbc_2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Md Mehrajul Islam | Joy Prokash Debnath</title>
+    <link>http://localhost:1313/authors/md-mehrajul-islam/</link>
+      <atom:link href="http://localhost:1313/authors/md-mehrajul-islam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Md Mehrajul Islam</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Mon, 27 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
+      <link>http://localhost:1313/publication/omicml/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/omicml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

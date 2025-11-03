@@ -2,53 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Joy Prokash Debnath</title>
-    <link>https://prokash21.github.io/publication-type/3/</link>
-      <atom:link href="https://prokash21.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/3/</link>
+      <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:1313/images/icon_hu_383e37df169fe683.png</url>
       <title>3</title>
-      <link>https://prokash21.github.io/publication-type/3/</link>
+      <link>http://localhost:1313/publication-type/3/</link>
     </image>
     
     <item>
-      <title>Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis</title>
-      <link>https://prokash21.github.io/publication/eqtlgen/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/eqtlgen/</guid>
+      <title>BioSalT: a multigene machine learning model for early salinity stress detection in Solanum lycopersicum</title>
+      <link>http://localhost:1313/publication/biosalt/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/biosalt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets</title>
-      <link>https://prokash21.github.io/publication/archie/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/archie/</guid>
+      <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
+      <link>http://localhost:1313/publication/omicml/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/omicml/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Network reconstruction for trans acting genetic loci using multi-omics data and prior information</title>
-      <link>https://prokash21.github.io/publication/trans_network/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/trans_network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study</title>
-      <link>https://prokash21.github.io/publication/covid_mr/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/covid_mr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The architecture of brain co-expression reveals the brain-wide basis of disease susceptibility</title>
-      <link>https://prokash21.github.io/publication/brain_modules/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/brain_modules/</guid>
+      <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma</title>
+      <link>http://localhost:1313/publication/deep_profile/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deep_profile/</guid>
       <description></description>
     </item>
     

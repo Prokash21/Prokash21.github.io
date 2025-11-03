@@ -89,7 +89,7 @@ collections:
         name: "draft"
         widget: "boolean"
         default: false
-      - label: "Featured"
+      - label: "featured"
         name: "featured"
         widget: "boolean"
         default: false
@@ -109,7 +109,7 @@ collections:
         name: "projects"
         required: false
         widget: "list"
-      - label: "Featured Image"
+      - label: "featured Image"
         name: "image"
         required: false
         widget: object
@@ -141,7 +141,7 @@ collections:
         name: "draft"
         widget: "boolean"
         default: false
-      - label: "Featured"
+      - label: "featured"
         name: "featured"
         widget: "boolean"
         default: false
@@ -177,7 +177,7 @@ collections:
               - {label: "Brand", value: "fab"}
               - {label: "Academic", value: "ai"}
           - {label: "Icon (see https://sourcethemes.com/academic/docs/page-builder/#icons)", name: icon, widget: string, required: false}
-      - label: "Featured Image"
+      - label: "featured Image"
         name: "image"
         required: false
         widget: object
@@ -233,7 +233,7 @@ collections:
         name: "draft"
         widget: "boolean"
         default: false
-      - label: "Featured"
+      - label: "featured"
         name: "featured"
         widget: "boolean"
         default: false
@@ -253,7 +253,7 @@ collections:
         name: "projects"
         required: false
         widget: "list"
-      - label: "Featured Image"
+      - label: "featured Image"
         name: "image"
         required: false
         widget: object

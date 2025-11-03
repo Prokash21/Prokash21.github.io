@@ -1,0 +1,21 @@
+# Run instructions
+# Use the provided PowerShell starter script `run.ps1` which will:
+#  - install Hugo to .\tools once (if missing)
+#  - pick a free port starting at 1313 if 1313 is already in use
+#  - start the Hugo dev server and print the URL
+#
+# Recommended:
+#  Rename this file to a script once and run it:
+#    Rename-Item .\run.txt .\run.ps1
+#    powershell -ExecutionPolicy Bypass -File .\run.ps1
+#    
+
+#### Set-Location -Path "E:\DWCT\PHD_apply\portfolio\dump_4" # chnage location
+
+# Or just run the script directly (no rename required):
+#    powershell -ExecutionPolicy Bypass -File .\run.ps1
+
+# If you prefer to run Hugo on a fixed different port, run:
+#    .\tools\hugo.exe server -D --bind 127.0.0.1 --port 1314
+
+# Tip: To allow access from other devices, run with --bind 0.0.0.0 and open the port in Windows Firewall.

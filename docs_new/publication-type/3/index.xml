@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Joy Prokash Debnath</title>
+    <link>/publication-type/3/</link>
+      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu_383e37df169fe683.png</url>
+      <title>3</title>
+      <link>/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis</title>
+      <link>/publication/eqtlgen/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/eqtlgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets</title>
+      <link>/publication/archie/</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/archie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network reconstruction for trans acting genetic loci using multi-omics data and prior information</title>
+      <link>/publication/trans_network/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/trans_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study</title>
+      <link>/publication/covid_mr/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/covid_mr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The architecture of brain co-expression reveals the brain-wide basis of disease susceptibility</title>
+      <link>/publication/brain_modules/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brain_modules/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

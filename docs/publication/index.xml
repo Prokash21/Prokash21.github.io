@@ -2,109 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Joy Prokash Debnath</title>
-    <link>https://prokash21.github.io/publication/</link>
-      <atom:link href="https://prokash21.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright>
     <image>
-      <url>https://prokash21.github.io/images/icon_hufa6f6b9163ab19af4a2f6d65b888ad6e_2131_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:1313/images/icon_hu_383e37df169fe683.png</url>
       <title>Publications</title>
-      <link>https://prokash21.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
-      <title>Unraveling the polygenic architecture of complex traits using blood eQTL metaanalysis</title>
-      <link>https://prokash21.github.io/publication/eqtlgen/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/eqtlgen/</guid>
+      <title>BioSalT: a multigene machine learning model for early salinity stress detection in Solanum lycopersicum</title>
+      <link>http://localhost:1313/publication/biosalt/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/biosalt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Novel Aggregative trans-eQTL Association Analysis of Known Genetic Variants Detect Trait-specific Target Gene-sets</title>
-      <link>https://prokash21.github.io/publication/archie/</link>
-      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/archie/</guid>
+      <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
+      <link>http://localhost:1313/publication/omicml/</link>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/omicml/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The GTEx Consortium atlas of genetic regulatory effects across human tissues</title>
-      <link>https://prokash21.github.io/publication/gtex_v8/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/gtex_v8/</guid>
+      <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma</title>
+      <link>http://localhost:1313/publication/deep_profile/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deep_profile/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Network reconstruction for trans acting genetic loci using multi-omics data and prior information</title>
-      <link>https://prokash21.github.io/publication/trans_network/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/trans_network/</guid>
+      <title>Molecular screening of Head and Neck Squamous Cell Carcinoma patients for Human Papillomavirus</title>
+      <link>http://localhost:1313/publication/hpv/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hpv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ACE inhibition and cardiometabolic risk factors, lung ACE2 and TMPRSS2 gene expression, and plasma ACE2 levels: a Mendelian randomization study</title>
-      <link>https://prokash21.github.io/publication/covid_mr/</link>
-      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/covid_mr/</guid>
+      <title>Genome-wide identification and characterization of m6A regulatory genes in Soybean: Insights into evolution, miRNA interactions, and stress responses</title>
+      <link>http://localhost:1313/publication/genome_wide/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/genome_wide/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The architecture of brain co-expression reveals the brain-wide basis of disease susceptibility</title>
-      <link>https://prokash21.github.io/publication/brain_modules/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/brain_modules/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Imputed gene associations identify replicable trans‐acting genes enriched in transcription pathways and complex traits</title>
-      <link>https://prokash21.github.io/publication/trans_predixcan/</link>
-      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/trans_predixcan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
-      <link>https://prokash21.github.io/publication/crossmap/</link>
-      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/crossmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genetic effects on gene expression across human tissues</title>
-      <link>https://prokash21.github.io/publication/gtex_v6/</link>
-      <pubDate>Thu, 12 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/gtex_v6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-expression networks reveal the tissue-specific regulation of transcription and splicing</title>
-      <link>https://prokash21.github.io/publication/twn/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/twn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iCOSSY: An online tool for context-specific subnetwork discovery from gene expression data</title>
-      <link>https://prokash21.github.io/publication/icossy/</link>
-      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/icossy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic context-specific subnetwork discovery from large interaction networks</title>
-      <link>https://prokash21.github.io/publication/cossy/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/cossy/</guid>
+      <title>Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach</title>
+      <link>http://localhost:1313/publication/mpox_2022/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mpox_2022/</guid>
       <description></description>
     </item>
     

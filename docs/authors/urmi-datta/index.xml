@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urmi Datta | Joy Prokash Debnath</title>
+    <link>http://localhost:1313/authors/urmi-datta/</link>
+      <atom:link href="http://localhost:1313/authors/urmi-datta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urmi Datta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>BioSalT: a multigene machine learning model for early salinity stress detection in Solanum lycopersicum</title>
+      <link>http://localhost:1313/publication/biosalt/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/biosalt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
