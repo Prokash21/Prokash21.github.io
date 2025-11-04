@@ -48,7 +48,7 @@ featured: True
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'paper\Genome_Wide.pdf'
+url_pdf: 'paper/Genome_Wide.pdf'
 url_code: 'https://github.com/Prokash21/Genome-Wide'
 url_dataset: ''
 url_poster: ''

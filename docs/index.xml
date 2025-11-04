@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joy Prokash Debnath</title>
-    <link>http://localhost:1314/</link>
-      <atom:link href="http://localhost:1314/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Joy Prokash Debnath</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1314/images/icon_hu_383e37df169fe683.png</url>
+      <url>http://localhost:1313/images/icon_hu_383e37df169fe683.png</url>
       <title>Joy Prokash Debnath</title>
-      <link>http://localhost:1314/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>BioSalT: a multigene machine learning model for early salinity stress detection in Solanum lycopersicum</title>
-      <link>http://localhost:1314/publication/biosalt/</link>
+      <link>http://localhost:1313/publication/biosalt/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/biosalt/</guid>
+      <guid>http://localhost:1313/publication/biosalt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
-      <link>http://localhost:1314/publication/omicml/</link>
+      <link>http://localhost:1313/publication/omicml/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/omicml/</guid>
+      <guid>http://localhost:1313/publication/omicml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma</title>
-      <link>http://localhost:1314/publication/deep_profile/</link>
+      <link>http://localhost:1313/publication/deep_profile/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/deep_profile/</guid>
+      <guid>http://localhost:1313/publication/deep_profile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular screening of Head and Neck Squamous Cell Carcinoma patients for Human Papillomavirus</title>
-      <link>http://localhost:1314/publication/hpv/</link>
+      <link>http://localhost:1313/publication/hpv/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/hpv/</guid>
+      <guid>http://localhost:1313/publication/hpv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide identification and characterization of m6A regulatory genes in Soybean: Insights into evolution, miRNA interactions, and stress responses</title>
-      <link>http://localhost:1314/publication/genome_wide/</link>
+      <link>http://localhost:1313/publication/genome_wide/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/genome_wide/</guid>
+      <guid>http://localhost:1313/publication/genome_wide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach</title>
-      <link>http://localhost:1314/publication/mpox_2022/</link>
+      <link>http://localhost:1313/publication/mpox_2022/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/publication/mpox_2022/</guid>
+      <guid>http://localhost:1313/publication/mpox_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snakemake Intro</title>
-      <link>http://localhost:1314/talk/ashg_2015/</link>
+      <link>http://localhost:1313/talk/ashg_2015/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/talk/ashg_2015/</guid>
+      <guid>http://localhost:1313/talk/ashg_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How I created my website</title>
-      <link>http://localhost:1314/post/2021-01-26_personal_website/</link>
+      <link>http://localhost:1313/post/2021-01-26_personal_website/</link>
       <pubDate>Tue, 26 Jan 2021 16:30:00 +0000</pubDate>
-      <guid>http://localhost:1314/post/2021-01-26_personal_website/</guid>
+      <guid>http://localhost:1313/post/2021-01-26_personal_website/</guid>
       <description>&lt;p&gt;Whether one needs a personal website for professional growth is out of the question. Of course, we need it. Instead, the question is: &lt;em&gt;how attractive and elegant is the website?&lt;/em&gt; Being a Ph.D. student, it&amp;rsquo;s not a surprise that I find an academic-theme website very attractive. Developing such a website from the scratch needs huge time and effort. Luckily, there are open source templates such as &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo templates&lt;/a&gt;. Recently I created &lt;a href=&#34;https://alorchhota.github.io/&#34; target=&#34;_blank&#34;&gt;my website&lt;/a&gt; using such a template. Below is a blurred screenshot of the site.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1314/posts/website_preview.png&#34; alt=&#34;A blurred screenshot of the site&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/website_preview.png&#34; alt=&#34;A blurred screenshot of the site&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What I like about the website are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;It is simple in design, attractive in appearance, and elegant in presentation.&lt;/li&gt;
@@ -149,7 +149,7 @@ serve_site()
 # Launched the hugo server in the background (process ID: 9296). To stop it, call blogdown::stop_server() or restart the R session.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;At this point, the template website was visible in the RStudio &lt;em&gt;Viewer&lt;/em&gt; panel (see the image below).
-&lt;img src=&#34;http://localhost:1314/posts/rstudio_website.png&#34; alt=&#34;Sample website view in RStudio&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://localhost:1313/posts/rstudio_website.png&#34; alt=&#34;Sample website view in RStudio&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When I clicked on the button as marked by a red circle, the website opened in a web browser. Generally, the website updated updated each time I saved any change. Occasionally, I needed to stop the site by calling &lt;code&gt;stop_server()&lt;/code&gt;, and then restart by calling &lt;code&gt;build_site()&lt;/code&gt; and &lt;code&gt;serve_site()&lt;/code&gt; manually.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -521,7 +521,7 @@ Whether one needs a personal website ...
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On the Github website, I went to &lt;em&gt;Settings&lt;/em&gt; of my repository, scrolled to the &lt;em&gt;Github Pages&lt;/em&gt; section, and set &lt;em&gt;master&lt;/em&gt; branch + &lt;em&gt;/docs&lt;/em&gt; folder as the source. Consequently, my site was published at &lt;a href=&#34;https://alorchhota.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://alorchhota.github.io/&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1314/posts/gh_page_config.png&#34; alt=&#34;Github Pages Configuration&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/gh_page_config.png&#34; alt=&#34;Github Pages Configuration&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Note:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The repository must be public to use Github Pages for free.&lt;/li&gt;
@@ -561,25 +561,25 @@ git push
     
     <item>
       <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
-      <link>http://localhost:1314/talk/buet_cs_bioinfo_2020/</link>
+      <link>http://localhost:1313/talk/buet_cs_bioinfo_2020/</link>
       <pubDate>Sat, 07 Nov 2020 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/talk/buet_cs_bioinfo_2020/</guid>
+      <guid>http://localhost:1313/talk/buet_cs_bioinfo_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest lecture on single-cell genomics</title>
-      <link>http://localhost:1314/talk/sc_lecture_2019/</link>
+      <link>http://localhost:1313/talk/sc_lecture_2019/</link>
       <pubDate>Mon, 25 Mar 2019 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/talk/sc_lecture_2019/</guid>
+      <guid>http://localhost:1313/talk/sc_lecture_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:1314/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -706,27 +706,27 @@ $$&lt;/p&gt;
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1314/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1314/privacy/</guid>
+      <guid>http://localhost:1313/privacy/</guid>
       <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>http://localhost:1314/terms/</link>
+      <link>http://localhost:1313/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1314/terms/</guid>
+      <guid>http://localhost:1313/terms/</guid>
       <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>http://localhost:1314/project/example/</link>
+      <link>http://localhost:1313/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/project/example/</guid>
+      <guid>http://localhost:1313/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -737,9 +737,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://localhost:1314/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1314/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -831,9 +831,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Gene Interaction-Level Cancer Classification using Gene Expression Profiles</title>
-      <link>http://localhost:1314/talk/tbc_2012/</link>
+      <link>http://localhost:1313/talk/tbc_2012/</link>
       <pubDate>Sat, 13 Oct 2012 16:45:00 +0000</pubDate>
-      <guid>http://localhost:1314/talk/tbc_2012/</guid>
+      <guid>http://localhost:1313/talk/tbc_2012/</guid>
       <description></description>
     </item>
     
