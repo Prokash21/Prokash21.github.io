@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Joy Prokash Debnath</title>
-    <link>http://localhost:1313/talk/</link>
-      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/talk/</link>
+      <atom:link href="http://localhost:1314/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright>
     <image>
-      <url>http://localhost:1313/images/icon_hu_383e37df169fe683.png</url>
+      <url>http://localhost:1314/images/icon_hu_383e37df169fe683.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/talk/</link>
+      <link>http://localhost:1314/talk/</link>
     </image>
     
     <item>
       <title>Snakemake Intro</title>
-      <link>http://localhost:1313/talk/ashg_2015/</link>
+      <link>http://localhost:1314/talk/ashg_2015/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ashg_2015/</guid>
+      <guid>http://localhost:1314/talk/ashg_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
-      <link>http://localhost:1313/talk/buet_cs_bioinfo_2020/</link>
+      <link>http://localhost:1314/talk/buet_cs_bioinfo_2020/</link>
       <pubDate>Sat, 07 Nov 2020 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/buet_cs_bioinfo_2020/</guid>
+      <guid>http://localhost:1314/talk/buet_cs_bioinfo_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guest lecture on single-cell genomics</title>
-      <link>http://localhost:1313/talk/sc_lecture_2019/</link>
+      <link>http://localhost:1314/talk/sc_lecture_2019/</link>
       <pubDate>Mon, 25 Mar 2019 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/sc_lecture_2019/</guid>
+      <guid>http://localhost:1314/talk/sc_lecture_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gene Interaction-Level Cancer Classification using Gene Expression Profiles</title>
-      <link>http://localhost:1313/talk/tbc_2012/</link>
+      <link>http://localhost:1314/talk/tbc_2012/</link>
       <pubDate>Sat, 13 Oct 2012 16:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/tbc_2012/</guid>
+      <guid>http://localhost:1314/talk/tbc_2012/</guid>
       <description></description>
     </item>
     

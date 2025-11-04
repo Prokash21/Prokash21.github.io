@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | Joy Prokash Debnath</title>
-    <link>http://localhost:1313/publication-type/3/</link>
-      <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1314/publication-type/3/</link>
+      <atom:link href="http://localhost:1314/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_383e37df169fe683.png</url>
+      <url>http://localhost:1314/images/icon_hu_383e37df169fe683.png</url>
       <title>3</title>
-      <link>http://localhost:1313/publication-type/3/</link>
+      <link>http://localhost:1314/publication-type/3/</link>
     </image>
     
     <item>
       <title>BioSalT: a multigene machine learning model for early salinity stress detection in Solanum lycopersicum</title>
-      <link>http://localhost:1313/publication/biosalt/</link>
+      <link>http://localhost:1314/publication/biosalt/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/biosalt/</guid>
+      <guid>http://localhost:1314/publication/biosalt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
-      <link>http://localhost:1313/publication/omicml/</link>
+      <link>http://localhost:1314/publication/omicml/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/omicml/</guid>
+      <guid>http://localhost:1314/publication/omicml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma</title>
-      <link>http://localhost:1313/publication/deep_profile/</link>
+      <link>http://localhost:1314/publication/deep_profile/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/deep_profile/</guid>
+      <guid>http://localhost:1314/publication/deep_profile/</guid>
       <description></description>
     </item>
     

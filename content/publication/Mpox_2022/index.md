@@ -50,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'paper\Mpox_2022.pdf'
+url_pdf: 'paper/Mpox_2022.pdf'
 url_code: 'https://github.com/Prokash21/2022_MPXV_Project'
 url_dataset: 'https://www.nature.com/articles/s41598-024-80519-7#data-availability'
 url_poster: ''

@@ -52,10 +52,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'paper\deep_neural_profiling_undergrad_thesis.pdf'
+url_pdf: 'paper/deep_neural_profiling_undergrad_thesis.pdf'
 url_code: 'https://github.com/Prokash21/Deep-Neural-Profiling'
 url_dataset: ''
-url_poster: 'paper\poster.png'
+url_poster: 'paper/poster.png'
 url_project: ''
 url_slides: ''
 url_source: ''
