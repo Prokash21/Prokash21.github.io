@@ -16,7 +16,7 @@
 #    powershell -ExecutionPolicy Bypass -File .\run.ps1
 
 # If you prefer to run Hugo on a fixed different port, run:
-#    .\tools\hugo.exe server -D --bind 127.0.0.1 --port 1314
+# .\tools\hugo.exe server -D --bind 127.0.0.1 --port 1314
 
 # Tip: To allow access from other devices, run with --bind 0.0.0.0 and open the port in Windows Firewall.
 

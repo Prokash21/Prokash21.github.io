@@ -87,7 +87,7 @@ experience:
       GitHub: 
       - [omicML-server](https://github.com/Prokash21/omicML-server), [omicML_RNA-seq](https://github.com/Prokash21/omicML_RNA-seq), [omicML-raw](https://github.com/Prokash21/omicML_raw), [Celltypes-Patchseq](https://github.com/Prokash21/Celltypes-Patchseq), [Neuroimaging](https://github.com/Prokash21/Neuroimaging), [Allen-Brain](https://github.com/Prokash21/Allen-Brain), [Computational-Neuroscience](https://github.com/Prokash21/Computational-Neuroscience)
 
-  - title: Remote Research Intern
+  - title: Remote Research Assistant
     company: Australian Institute for Bioengineering and Nanotechnology - AIBN, UQ
     company_url: 'https://aibn.uq.edu.au/'
     location: Brisbane, Australia (remote)
@@ -124,15 +124,15 @@ experience:
       - Genomic Exploration of HPV-Associated Head Neck Squamous Cell Carcinoma Occurrence in Bangladesh: An Integrative Histopathological Analysis and Molecular Profiling of HPV
       - Machine learning-driven identification and quantitative validation of cancer-specific biomarkers across multiple carcinomas.
       
-      <a href="https://github.com/Prokash21/Deep-Neural-Profiling/blob/main/BMU_PROJECT/README_BMU_PROJECT.md" style="color:#000">Institutions in collaboration:</a>
-      - Department of Surgical Oncology, Department of Otolaryngology–Head & Neck Surgery, and Department of Pathology, BMU; Department of Surgical Oncology, National Institute of Cancer Research & Hospital (NICRH); and BMB, SUST.
+      Institutions in collaboration:
+      - Department of Surgical Oncology, Department of Otolaryngology–Head & Neck Surgery, and Department of Pathology, BMU; Department of Surgical Oncology, National Institute of Cancer Research & Hospital (NICRH); and BMB, SUST. [More Info](https://github.com/Prokash21/Deep-Neural-Profiling/blob/main/BMU_PROJECT/README_BMU_PROJECT.md)
 
       GitHub:
       - [HNSCC-HPV](https://github.com/Prokash21/HNSCC-HPV), [scRNA-seq](https://github.com/Prokash21/scRNA-seq)
 
 
 
-  - title: Research Assistant (Collaborator)
+  - title: Research Assistant
     company: Department of Chemistry, BUET; BMU; SUST
     company_url: 'https://www.buet.ac.bd/web/#/'
     location: Bangladesh
