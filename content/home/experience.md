@@ -97,14 +97,16 @@ experience:
       Advisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor
       
       Responsibilities and Experience:
-      - Performed bulk ncRNA-seq analyses across cancer cell lines to study glycoRNA expression and their roles in extracellular vesicles, EMT, and lung cancer.
+      - Conducted bulk ncRNA-seq analysis on cancer cell lines, including ADMSC, BMMSC, HeLa, MCF7, MDAMB231, TM6, A549, H1975.
+      - Analyzed the expression profiles of Y and U glycoRNAs to examine their significance in extracellular vesicles (EVs), epithelial–mesenchymal transition (EMT) and in lung cancer.
       - Filtered ncRNAs using ncRNAtools (RNAcentral API) and applied RFE-RF for feature selection in ML analysis.
       
       Project: 
-      - Chip development for glycoRNA isolation and marker-based cancer detection. 
+      - Chip development for small non-coding RNA (sncRNA) isolation and marker-based cancer detection. 
       
       GitHub: 
-      - [glycoRNA](https://github.com/Prokash21/glycoRNA-UQ-Australia)
+      - [small-non-coding-RNA](https://github.com/Prokash21/sncRNA-UQ-Australia)
+#      - Performed bulk ncRNA-seq analyses across cancer cell lines to study miRNA expression and their roles in extracellular vesicles, EMT, and lung cancer.
 
   - title: Research Assistant
     company: Bangladesh Medical University (BMU), Dhaka
