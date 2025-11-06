@@ -49,8 +49,9 @@
     {{/* Build the list of items and sort by Date according to front-matter `content.order` */}}
     {{ $items := where site.RegularPages "Type" $items_type }}
     {{ $order := default "asc" $st.Params.content.order }}
-    {{ if eq (lower $order) "newest" }}{{ $order = "desc" }}{{ end }}
+    {{ if eq (lower $st.Params.content.order) "newest" }}{{ $order = "desc" }}{{ end }}
     {{ if eq (lower $order) "oldest" }}{{ $order = "asc" }}{{ end }}
+    <!-- PORTFOLIO-OVERRIDE: items_type={{ $items_type }} order={{ $order }} -->
     {{ if or (eq (lower $order) "asc") (eq (lower $order) "desc") }}
       {{ $items = sort $items "Date" (lower $order) }}
     {{ end }}
