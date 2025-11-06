@@ -15,10 +15,15 @@ image:
 links:
 - icon: github
   icon_pack: fab
-  name: View on GitHub
+  name: Github
   url: https://github.com/Prokash21
 
-url_code: "https://github.com/Prokash21?tab=repositories"
+- icon: github
+  icon_pack: fab
+  name: Repositories
+  url: https://github.com/Prokash21?tab=repositories  
+
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
