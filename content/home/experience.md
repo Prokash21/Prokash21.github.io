@@ -29,7 +29,7 @@ experience:
     date_start: '2022-10-01'
     date_end: '2024-07-31'
     description: |
-      Supervisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en)
+      Supervisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor
       
       Responsibilities and Experience:
       - Implemented a full RNA-seq workflow (bash) for gene quantification from GEO/SRA FASTQ files and performed differential expression analysis with edgeR, limma, and DESeq2.
@@ -38,21 +38,21 @@ experience:
       - Compiled a multi-source gene expression database and trained DeepFoldChange using MLPRegressor.
 
       Projects:
-      - Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach
-      - markerMPXV: upregulation of RRAD and building of a biomarker algorithm for Mpox virus infection in comparison with other viral pathologies
-      - A Deep Learning Framework that Emulates Statistical Models for Differential Gene Expression Analysis
+      - Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach.
+      - markerMPXV: upregulation of RRAD and building of a biomarker algorithm for Mpox virus infection in comparison with other viral pathologies. [Used as a case study for [omicML](https://omicml.org/)]
+      - A Deep Learning Framework that Emulates Statistical Models for Differential Gene Expression Analysis.
 
       GitHub: 
       - [Mpox-Project](https://github.com/Prokash21/2022_MPXV_Project), [Biomarker-Discovery](https://github.com/Prokash21/biomarker-discovery), [Bulk-RNA-seq](https://github.com/Prokash21/RNA-Seq-Analysis), [DeepFoldChange](https://github.com/Prokash21/DeepFoldChange), [DGE-analysis](https://github.com/Prokash21/DGE-analysis)
 
   - title: Undergraduate Research Assistant
-    company: BMB, SUST
+    company: Laboratory of Genomics and Transcriptomics, BMB, SUST
     company_url: 'https://www.sust.edu/departments/bmb'
-    location: Laboratory of Genomics and Transcriptomics, Sylhet, Bangladesh
+    location: Sylhet, Bangladesh
     date_start: '2023-11-01'
     date_end: '2025-10-31'
     description: |
-      Supervisor: [Dr. Ajit Ghosh](https://scholar.google.com/citations?hl=en&user=VESJwAMAAAAJ)
+      Supervisor: [Dr. Ajit Ghosh](https://scholar.google.com/citations?hl=en&user=VESJwAMAAAAJ), Associate Professor
       
       Responsibilities and Experience:
       - Extracted RNA from plant samples, quantified by Nanodrop, and performed PCR to confirm cDNA synthesis and primer specificity; visualized products on agarose gels.
@@ -60,8 +60,8 @@ experience:
       - Profiled conserved domains and motifs of m6A regulators, built phylogenies (1000 bootstrap) in MEGA and visualized results in iTOL.
 
       Projects:
-      - Genome-wide identification and characterization of m6A regulatory genes in Soybean: Insights into evolution, miRNA interactions, and stress responses
-      - BioSalT (biomarkers of salinity stress in tomato): a multigene machine learning model for early salinity stress detection in \textit{Solanum lycopersicum
+      - Genome-wide identification and characterization of m6A regulatory genes in Soybean: Insights into evolution, miRNA interactions, and stress responses.
+      - BioSalT (biomarkers of salinity stress in tomato): a multigene machine learning model for early salinity stress detection in Solanum lycopersicum.
       
       GitHub: 
       - [BioSalT](https://github.com/Prokash21/BioSalT), [Genome-Wide](https://github.com/Prokash21/Genome-Wide)
@@ -73,7 +73,7 @@ experience:
     date_start: '2024-06-01'
     date_end: ''
     description: |
-      Supervisor: [Preonath Chondrow Dev](https://preonath.github.io/about.html)
+      Supervisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Preonath Chondrow Dev](https://preonath.github.io/about.html), Research Officer
       
       Responsibilities and Experience:
       - Developed omicML (GUI) to enable biologists to build biomarker algorithms from transcriptomic data.
@@ -88,13 +88,13 @@ experience:
       - [omicML-server](https://github.com/Prokash21/omicML-server), [omicML_RNA-seq](https://github.com/Prokash21/omicML_RNA-seq), [omicML-raw](https://github.com/Prokash21/omicML_raw), [Celltypes-Patchseq](https://github.com/Prokash21/Celltypes-Patchseq), [Neuroimaging](https://github.com/Prokash21/Neuroimaging), [Allen-Brain](https://github.com/Prokash21/Allen-Brain), [Computational-Neuroscience](https://github.com/Prokash21/Computational-Neuroscience)
 
   - title: Remote Research Assistant
-    company: Australian Institute for Bioengineering and Nanotechnology - AIBN, UQ
-    company_url: 'https://aibn.uq.edu.au/'
+    company: The University of Queensland
+    company_url: 'https://www.uq.edu.au/'
     location: Brisbane, Australia (remote)
     date_start: '2025-02-01'
     date_end: '2025-08-31'
     description: |
-      Advisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en)
+      Advisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor
       
       Responsibilities and Experience:
       - Performed bulk ncRNA-seq analyses across cancer cell lines to study glycoRNA expression and their roles in extracellular vesicles, EMT, and lung cancer.
@@ -113,7 +113,7 @@ experience:
     date_start: '2024-11-01'
     date_end: ''
     description: |
-      Supervisor: [Dr. S M Rashed Ul Islam](https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1)
+      Supervisor: [Dr. S M Rashed Ul Islam](https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1), Associate Professor
       
       Responsibilities and Experience:
       - Detected malignant HNSCC samples via histopathology and screened for HPV using multiplex and nested PCR.
@@ -121,7 +121,7 @@ experience:
       - Validating cancer-specific biomarkers identified through multi-omics (WGCNA, scRNA-seq, proteomics) with molecular techniques.
       
       Project: 
-      - Genomic Exploration of HPV-Associated Head Neck Squamous Cell Carcinoma Occurrence in Bangladesh: An Integrative Histopathological Analysis and Molecular Profiling of HPV
+      - Genomic Exploration of HPV-Associated Head Neck Squamous Cell Carcinoma Occurrence in Bangladesh: An Integrative Histopathological Analysis and Molecular Profiling of HPV.
       - Machine learning-driven identification and quantitative validation of cancer-specific biomarkers across multiple carcinomas.
       
       Institutions in collaboration:
@@ -130,8 +130,6 @@ experience:
       GitHub:
       - [HNSCC-HPV](https://github.com/Prokash21/HNSCC-HPV), [scRNA-seq](https://github.com/Prokash21/scRNA-seq)
 
-
-
   - title: Research Assistant
     company: Department of Chemistry, BUET; BMU; SUST
     company_url: 'https://www.buet.ac.bd/web/#/'
@@ -139,16 +137,16 @@ experience:
     date_start: '2025-03-01'
     date_end: ''
     description: |
-      Supervisor: [Papia Rahman](https://www.sust.edu/departments/bmb/faculty/papia-bmb@sust.edu)
+      Supervisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Papia Rahman](https://www.sust.edu/departments/bmb/faculty/papia-bmb@sust.edu), Lecturer
       
       Responsibilities and Experience:
-      - Applied DeepProfile and variational autoencoders (VAE) to integrate 26 GEO datasets for Oropharyngeal Carcinoma analyses.
+      - Applied Neural Network Framework (VAE) to train the big integrated data of 26 transcriptomic datasets for Oropharyngeal Carcinoma.
       - Implemented Integrated Gradients, ensemble latent feature learning, and TCGA survival benchmarking.
       - Synthesized Ag-deposited Ni/rGO nanoparticles and evaluated sensor and biological properties for collaborative projects. 
 
       Projects:
-      - Beyond Differential Expression: Deep Neural Profiling Reveals RAP1GAP2 as a Latent Regulator of Tumor Invasion in Oropharyngeal Carcinoma
-      - Synthesis and application of Ag-deposited Ni/rGO nanospheres in glucose sensing, antibacterial properties, and antioxidant activity
+      - Beyond Differential Expression: Deep Neural Profiling Reveals RAP1GAP2 as a Latent Regulator of Tumor Invasion in Oropharyngeal Carcinoma.
+      - Synthesis and application of Ag-deposited Ni/rGO nanospheres in glucose sensing, antibacterial properties, and antioxidant activity.
       
       GitHub: 
       - [Deep-Neural-Profiling](https://github.com/Prokash21/Deep-Neural-Profiling)

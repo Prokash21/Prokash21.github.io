@@ -28,10 +28,10 @@ education:
   courses:
   - course: Master of Science (M.Sc.) in Biochemistry and Molecular Biology
     institution: Shahjalal University of Science and Technology (SUST)
-    year: 2025
+    year: Aug 2025 - Jun 2026 (Expected)
   - course: Bachelor of Science (B.Sc.) in Biochemistry and Molecular Biology (BMB)
-    institution: Shahjalal University of Science and Technology (SUST), Graduation Delayed Due to Covid-19 Pandemic.
-    year: 2020 - 2025
+    institution: Shahjalal University of Science and Technology (SUST) [Graduation Delayed Due to Covid-19 Pandemic]
+    year: Feb 2020 - Jun 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -75,7 +75,7 @@ I am a graduate research assistant at the department of BMB, SUST, supervised by
 
 I have always approached biochemistry from a translational perspective, connecting biology with computational techniques to solve biological problems. For my research and learning, I take guidance on scRNA-seq, machine learning, and neuroscience, from <a href="https://preonath.github.io/about.html">Preonath Chondrow Dev</a>, work as a research officer in CHRF, Dhaka. In one of my current research projects, I am investigating some <a href="https://github.com/Prokash21/Deep-Neural-Profiling">latent features</a>, which are the molecular driver genes, controlling the regulation of a molecular pathway, using the VAE + IG framework, combining neural network modeling with RNA-seq and qRT-PCR validation.
 
-I firmly believe that maintaining a peaceful mind is essential for both living life fully and doing meaningful research. Sri Krishna says, “The mind can be your greatest ally or your worst enemy.” With this in mind, my curiosity now revolves around understanding the mmysteries of our brain.
+I firmly believe that maintaining a peaceful mind is essential for both living life fully and doing meaningful research. Sri Krishna says, “The mind can be your greatest ally or your worst enemy.” With this in mind, my curiosity now revolves around understanding the mysteries of the brain.
 
 <!--# Earlier, I completed my undergraduate degree, when I got involved in projects with my two respected faculty members: <a href="https://scholar.google.com/citations?user=VESJwAMAAAAJ&hl=en">Ajit Ghosh, PhD</a>, who runs the Genomics and Transcriptomics laboratory, and <a href="https://www.sust.edu/departments/bmb/faculty/papia-bmb@sust.edu">Papia Rahman</a>, who runs a collaborative work in nanoparticles with the department of Chemistry, BUET -->
 
