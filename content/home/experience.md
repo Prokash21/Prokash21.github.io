@@ -106,7 +106,7 @@ experience:
       
       GitHub: 
       - [small-non-coding-RNA](https://github.com/Prokash21/sncRNA-UQ-Australia)
-#      - Performed bulk ncRNA-seq analyses across cancer cell lines to study miRNA expression and their roles in extracellular vesicles, EMT, and lung cancer.
+#      - Performed bulk ncRNA-seq analyses across cancer cell lines to study miRNA #  expression and their roles in extracellular vesicles, EMT, and lung cancer.
 
   - title: Research Assistant
     company: Bangladesh Medical University (BMU), Dhaka

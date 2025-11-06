@@ -1,0 +1,79 @@
+{{/*
+  Local override of the Wowchemy portfolio widget partial.
+  This variant respects `content.order` ("asc" or "desc") in the home widget front matter
+  and sorts items by `.Date` accordingly. Place this file in `layouts/partials/widgets/` to
+  override the vendored theme partial without editing `_vendor`.
+*/}}
+
+{{ $ := .root }}
+{{ $st := .page }}
+{{ $items_type := $st.Params.content.page_type | default "project" }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+
+<div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
+
+  {{ with $st.Content }}{{ . }}{{ end }}
+
+  {{ if $st.Params.content.filter_button }}
+
+    {{ $filter_default := default (int $st.Params.content.filter_default) 0 }}
+    {{ $default_filter_tag_raw := (index $st.Params.content.filter_button ($filter_default)).tag }}
+    {{ $default_filter_tag := printf ".js-id-%s" (replace $default_filter_tag_raw " " "-") }}
+    {{ if or (eq (substr $default_filter_tag_raw 0 1) "*") (eq (substr $default_filter_tag_raw 0 1) ".") }}
+      {{ $default_filter_tag = $default_filter_tag_raw }}
+    {{ end }}
+
+    <span class="d-none default-project-filter">{{ $default_filter_tag }}</span>
+
+    {{ if gt (len $st.Params.content.filter_button) 1 }}
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group flex-wrap">
+            {{ range $idx, $item := $st.Params.content.filter_button }}
+              {{ $data_filter := printf ".js-id-%s" (replace .tag " " "-") }}
+              {{ if or (eq (substr .tag 0 1) "*") (eq (substr .tag 0 1) ".") }}
+                {{ $data_filter = .tag }}
+              {{ end }}
+              <a href="#" data-filter="{{ $data_filter | safeHTMLAttr }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}">{{ .name }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  {{ end }}
+
+  <div class="{{ if or $st.Params.content.filter_button (eq $st.Params.design.view 3) }}isotope projects-container{{end}} {{if eq $st.Params.design.view 3}}js-layout-masonry{{else}}row js-layout-row{{end}} {{ if eq $st.Params.design.view 5 }}project-showcase mt-5{{end}}">
+
+    {{/* Build the list of items and sort by Date according to front-matter `content.order` */}}
+    {{ $items := where site.RegularPages "Type" $items_type }}
+    {{ $order := default "asc" $st.Params.content.order }}
+    {{ if eq (lower $order) "newest" }}{{ $order = "desc" }}{{ end }}
+    {{ if eq (lower $order) "oldest" }}{{ $order = "asc" }}{{ end }}
+    {{ if or (eq (lower $order) "asc") (eq (lower $order) "desc") }}
+      {{ $items = sort $items "Date" (lower $order) }}
+    {{ end }}
+
+    {{ range $idx, $item := $items }}
+
+      {{ $link := $item.RelPermalink }}
+      {{ $target := "" }}
+      {{ if $item.Params.external_link }}
+        {{ $link = $item.Params.external_link }}
+        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+      {{ end }}
+
+      {{ if eq $st.Params.design.view 1 }}
+        {{ partial "portfolio_li_list" (dict "item" $item) }}
+      {{ else if eq $st.Params.design.view 2 }}
+        {{ partial "portfolio_li_compact" (dict "item" $item) }}
+      {{ else if eq $st.Params.design.view 3 }}
+        {{ partial "portfolio_li_card" (dict "widget" $st "index" $idx "item" $item "link" $link "target" $target) }}
+      {{ else }}
+        {{ partial "portfolio_li_showcase" (dict "widget" $st "index" $idx "item" $item "link" $link "target" $target) }}
+      {{ end }}
+
+    {{ end }}
+  </div>
+</div>

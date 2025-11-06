@@ -23,6 +23,10 @@
   url = "#projects"
   weight = 40
 
+[[main]]
+  name = "YouTube"
+  url = "#youtube"
+  weight = 40
 
 [[main]]
   name = "Extracurricular"

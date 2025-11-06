@@ -1,0 +1,52 @@
+{{/*
+Shortcode: youtube_card
+Usage: {{< youtube_card id="VIDEO_ID" >}}
+
+This shortcode fetches YouTube oEmbed JSON for the given video URL and
+renders a linked thumbnail with the video title. It uses Hugo's getJSON at
+build time; if the request fails, it falls back to using a standard thumbnail URL.
+
+Note: Frequent remote requests may slow builds. If you build offline, provide
+the thumbnail manually or avoid using the shortcode.
+*/}}
+
+{{ $id := .Get "id" }}
+{{ if not $id }}{{ errorf "youtube_card shortcode requires id parameter (video id)" }}{{ end }}
+
+{{ $videoURL := printf "https://www.youtube.com/watch?v=%s" $id }}
+
+{{ $oembedURL := printf "https://www.youtube.com/oembed?url=%s&format=json" (urlquery $videoURL) }}
+
+{{ $data := dict }}
+{{ $ok := true }}
+{{/* Try to fetch oEmbed JSON using resources.GetRemote + transform.Unmarshal (replacement for getJSON) */}}
+{{ $res := resources.GetRemote $oembedURL }}
+{{ if $res }}
+  {{ $maybe := $res | transform.Unmarshal }}
+  {{ if $maybe }}
+    {{ $data = $maybe }}
+  {{ else }}
+    {{ $ok = false }}
+  {{ end }}
+{{ else }}
+  {{ $ok = false }}
+{{ end }}
+
+{{ $thumb := (printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $id) }}
+{{ $title := "YouTube video" }}
+{{ if $ok }}
+  {{ if $data.thumbnail_url }}{{ $thumb = $data.thumbnail_url }}{{ end }}
+  {{ if $data.title }}{{ $title = $data.title }}{{ end }}
+{{ end }}
+
+<div class="youtube-card" style="display:inline-block;margin:8px;text-align:left;max-width:360px;">
+  <a href="{{ $videoURL }}" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;">
+    <div style="position:relative;">
+      <img src="{{ $thumb }}" alt="{{ $title }}" style="width:100%;height:auto;display:block;border:1px solid #ddd;border-radius:4px;" />
+      <div style="position:absolute;left:8px;bottom:8px;background:rgba(0,0,0,0.6);color:#fff;padding:4px 6px;border-radius:3px;font-size:12px;">▶</div>
+    </div>
+    <div style="padding:8px 4px 0 4px;font-size:14px;line-height:1.2;color:var(--text);">
+      <strong>{{ $title }}</strong>
+    </div>
+  </a>
+</div>
