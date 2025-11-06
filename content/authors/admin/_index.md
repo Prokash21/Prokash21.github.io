@@ -19,9 +19,11 @@ bio: My research interests include computational biology and machine learning.
 # Interests to show in About widget
 interests:
 - Neural Genomics
-- Computational Biology
+- Computational Neuroscience
 - Single-cell and Spatial Transcriptomics
+- Neuroimaging
 - Genomic Language Models (gLMs)
+
 
 # Education to show in About widget
 education:
@@ -71,7 +73,7 @@ email: "joy21.dev.pd@gmail.com"
 highlight_name: true
 ---
 
-I am a graduate research assistant at the department of BMB, SUST, supervised by <a href="https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en">Dr. Tanvir Hossain</a>. Under his supervision, I have contributed to several projects and even worked remotely as a research assistant on a glycoRNA project at [AIBN, University of Queensland](https://aibn.uq.edu.au/). Besides that, I work on a collaborative project on cancer genomics with BMU, Dhaka, under the supervision of <a href="https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1">Dr. S. M.Rashed Ul Islam</a>.
+I am a graduate research assistant at the department of BMB, SUST, supervised by <a href="https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en">Dr. Tanvir Hossain</a>. Under his supervision, I have contributed to several projects and even worked remotely as a research assistant on a glycoRNA project at [AIBN, University of Queensland](https://aibn.uq.edu.au/). Besides that, I work on a collaborative project on cancer genomics with BMU, Dhaka, under the supervision of <a href="https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1">Dr. S M Rashed Ul Islam</a>.
 
 I have always approached biochemistry from a translational perspective, connecting biology with computational techniques to solve biological problems. For my research and learning, I take guidance on scRNA-seq, machine learning, and neuroscience, from <a href="https://preonath.github.io/about.html">Preonath Chondrow Dev</a>, work as a research officer in CHRF, Dhaka. In one of my current research projects, I am investigating some <a href="https://github.com/Prokash21/Deep-Neural-Profiling">latent features</a>, which are the molecular driver genes, controlling the regulation of a molecular pathway, using the VAE + IG framework, combining neural network modeling with RNA-seq and qRT-PCR validation.
 

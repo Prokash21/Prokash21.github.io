@@ -40,7 +40,7 @@ experience:
       Projects:
       - Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach.
       - markerMPXV: upregulation of RRAD and building of a biomarker algorithm for Mpox virus infection in comparison with other viral pathologies. [Used as a case study for [omicML](https://omicml.org/)]
-      - A Deep Learning Framework that Emulates Statistical Models for Differential Gene Expression Analysis.
+      - A deep fearning framework that emulates statistical models for differential gene expression analysis.
 
       GitHub: 
       - [Mpox-Project](https://github.com/Prokash21/2022_MPXV_Project), [Biomarker-Discovery](https://github.com/Prokash21/biomarker-discovery), [Bulk-RNA-seq](https://github.com/Prokash21/RNA-Seq-Analysis), [DeepFoldChange](https://github.com/Prokash21/DeepFoldChange), [DGE-analysis](https://github.com/Prokash21/DGE-analysis)
@@ -73,7 +73,7 @@ experience:
     date_start: '2024-06-01'
     date_end: ''
     description: |
-      Supervisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Preonath Chondrow Dev](https://preonath.github.io/about.html), Research Officer
+      Supervisors: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Preonath Chondrow Dev](https://preonath.github.io/about.html), Research Officer
       
       Responsibilities and Experience:
       - Developed omicML (GUI) to enable biologists to build biomarker algorithms from transcriptomic data.
@@ -133,13 +133,12 @@ experience:
       - [HNSCC-HPV](https://github.com/Prokash21/HNSCC-HPV), [scRNA-seq](https://github.com/Prokash21/scRNA-seq)
 
   - title: Research Assistant
-    company: Department of Chemistry, BUET; BMU; SUST
-    company_url: 'https://www.buet.ac.bd/web/#/'
+    company: '[Department of Chemistry, BUET](https://www.buet.ac.bd/web/#/); [Bangladesh Medical University](https://www.bmu.edu.bd/); [SUST](https://www.sust.edu.bd/)'
     location: Bangladesh
     date_start: '2025-03-01'
     date_end: ''
     description: |
-      Supervisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Papia Rahman](https://www.sust.edu/departments/bmb/faculty/papia-bmb@sust.edu), Lecturer
+      Supervisors: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Papia Rahman](https://www.sust.edu/departments/bmb/faculty/papia-bmb@sust.edu), Lecturer
       
       Responsibilities and Experience:
       - Applied Neural Network Framework (VAE) to train the big integrated data of 26 transcriptomic datasets for Oropharyngeal Carcinoma.
@@ -147,7 +146,7 @@ experience:
       - Synthesized Ag-deposited Ni/rGO nanoparticles and evaluated sensor and biological properties for collaborative projects. 
 
       Projects:
-      - Beyond Differential Expression: Deep Neural Profiling Reveals RAP1GAP2 as a Latent Regulator of Tumor Invasion in Oropharyngeal Carcinoma.
+      - Beyond Differential Expression: Deep Neural Profiling reveals RAP1GAP2 as a latent regulator of tumor invasion in Oropharyngeal Carcinoma.
       - Synthesis and application of Ag-deposited Ni/rGO nanospheres in glucose sensing, antibacterial properties, and antioxidant activity.
       
       GitHub: 

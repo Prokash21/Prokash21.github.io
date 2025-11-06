@@ -28,20 +28,21 @@ The pictures above capture some beautiful moments with them!
 
 I was a scout during my school life, and there was a motto I promised to follow, which is to help at least one person every day, in any way I can. In university, [KIN](https://kinsust.org) gave me the opportunity to continue doing something meaningful for people in need.<br>
 I have donated blood multiple times, and the most priceless thing is that some of the people I helped still call me to ask about my health. (First picture on the left.)<br>
-In the second picture, I was distributing blankets. In the second row, second column, we were sorting the collected clothes. In the next picture, I was selling books at the charity book fair, and in the last one, the poster you see was designed by me to invite students from other universities to our charity film festival.
+In the second picture, I was distributing blankets. In the second row, second column, we were sorting the collected winter clothes. In the next picture, I was selling books at the charity book fair, and in the last one, the poster you see was designed by me to invite students from other universities to our charity film festival.
 
 
 ### Travelling and Photography 
 <center><img src="media/Photography_jpd.jpg" alt="States and National parks I visited"/></center>
 I’ve always loved exploring new places. The best part of going on a summit is losing your mobile network for those five or six days and it feels like the outside world doesn’t exist.<br>
-I love taking photos and feel passionate about capturing the harmony of nature. Looking back at those pictures in my archive is like pressing Ctrl + Z, which instantly takes me back to that exact moment.<br>
+I love taking photos and feel passionate about capturing story the harmony of nature. Looking back at those pictures in my archive is like pressing Ctrl + Z, which instantly takes me back to that exact moment.<br>
 Here are some moments I captured during my travels.
 
 ### Music
 <center><img src="media/Music.jpg" alt="" /></center>
 
-Everyone in my family is involved in music. Though I was initially pressured to learn, I eventually fell in love with it.<br> In 2013, I secured first place in classical music at the [Zila Shilpakala Academy](https://shilpakala.narsingdi.gov.bd/), Narsingdi, and later won prizes in both school and national competitions, including Best Singer in Classical Music at Mohammadpur Thana ([College](https://sjs.edu.bd/new/index.php) time).<br>
-Here are a few moments from my performances.
+Everyone in my family is involved in music. Though I was initially pressured to learn, I eventually fell in love with it.<br> In 2013, I secured first place in classical music at the [Zila Shilpakala Academy](https://shilpakala.narsingdi.gov.bd/), Narsingdi, and overall won prizes in both school and national competitions, including Best Singer in Classical Music at Mohammadpur Thana ([College](https://sjs.edu.bd/new/index.php) time).<br>
+As my fascination with different musical instruments grows, I've already learned to play more than 12 (you can find some of them pictured above), and I aspire to play every instrument that exists in the world.
+Here are a few moments from my performances in different programs at SUST.
 
 ### Sports
 <center><img src="media/Sports.jpg" alt="" /></center>
