@@ -18,7 +18,7 @@ design:
 <center><img src="media/Kin_School.jpg"></center>
 
 [KIN School](https://kinsust.org/kin-school) is a magical place, full of little magicians. And why do I call them that? <br>
-All of life’s worries simply just fade away just by being around them. Especially on Fridays, when I used to enter the SUST School with my guitar in the afternoon, many of them would run toward me shouting, “Joy Vaiya! Joy Vaiya!” Their innocence and love made me forget all my academic pressures and struggles of life.<br>
+All of life’s worries simply just fade away just by being around them. Especially on Fridays, when I used to enter the shahjalal university schoolyard with my guitar in the afternoon, many of them would run toward me shouting, “Joy Vaiya! Joy Vaiya!” Their innocence and love made me forget all my academic pressures and struggles of life.<br>
 I really miss them nowadays. I’ve been busy with my career and research and rarely get the chance to strum my guitar with their voices around me…<br>
 The pictures above capture some beautiful moments with them!
 
@@ -47,8 +47,8 @@ Here are a few moments from my performances in different programs at SUST.
 ### Sports
 <center><img src="media/Sports.jpg" alt="" /></center>
 
-Since childhood, I’ve loved playing sports, especially football. I started watching football because of Kaká, and I’ve been a ultra Real Madrid fan. I played as a midfielder for the BMB team in the SUST Inter-Department Football Tournament 2024.<br>
-The picture on the left is from a match during BMB Sports Week 2022, and the one on the right was taken when we became runners-up in the BMB Champions League 2023.
+Since childhood, I’ve loved playing sports, especially football. I started watching football because of Kaká, and I’ve been a ultra Real Madrid fan. I played as a midfielder for the BMB team in the SUST Inter-Department Football Tournament 2023.<br>
+The picture on the left is from a match during BMB Sports Week 2022, and the one on the right was taken when we became runners-up in the BMB Champions League 2022.
 
 ### Reading Books
 <center><img src="media/book.png" alt="" /></center>
