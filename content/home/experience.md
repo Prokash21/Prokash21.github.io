@@ -50,11 +50,12 @@ experience:
     company_url: 'https://www.sust.edu/departments/bmb'
     location: Sylhet, Bangladesh
     date_start: '2023-11-01'
-    date_end: '2025-10-31'
+    date_end: '2025-09-15'
     description: |
       Supervisor: [Dr. Ajit Ghosh](https://scholar.google.com/citations?hl=en&user=VESJwAMAAAAJ), Associate Professor
       
       Responsibilities and Experience:
+      - Leveraged random forest and XGboost to identify key salinity stress regulators in tomato, leading to the development of BioSalT.
       - Extracted RNA from plant samples, quantified by Nanodrop, and performed PCR to confirm cDNA synthesis and primer specificity; visualized products on agarose gels.
       - Validated candidate biomarkers by qRT-PCR using the ΔΔCt method to compute relative log2 fold changes.
       - Profiled conserved domains and motifs of m6A regulators, built phylogenies (1000 bootstrap) in MEGA and visualized results in iTOL.
@@ -77,17 +78,17 @@ experience:
       
       Responsibilities and Experience:
       - Developed omicML (GUI) to enable biologists to build biomarker algorithms from transcriptomic data.
-      - Building a computational model integrating electrophysiology and transcriptomics (Allen Brain Atlas) to relate gene expression to neuronal electrical properties.
-      - Analyzing brain MRI and surface-based morphometry to study brain structure and function.
+      - Utilizing deep neural network frameworks (e.g., VAEs, Transformers) for single cell segmentation and classification.
+      - Integrating patch-clamp electrophysiology, single-cell transcriptomics (Patch-seq, SMART-seq), and neuroimaging (fMRI) data to model neuronal excitability and cortical dysfunction in epilepsy.
 
       Projects:
       - omicML: an integrative tool of bioinformatics and machine learning algorithms to identify transcriptomic biomarkers
-      - Neuron Cell-Type Analysis and Signal Processing Workflows Using Allen Brain Atlas Data
+      - Multi-modal computational decoding of neuronal cell types in epilepsy.
       
       GitHub: 
       - [omicML-server](https://github.com/Prokash21/omicML-server), [omicML_RNA-seq](https://github.com/Prokash21/omicML_RNA-seq), [omicML-raw](https://github.com/Prokash21/omicML_raw), [Celltypes-Patchseq](https://github.com/Prokash21/Celltypes-Patchseq), [Neuroimaging](https://github.com/Prokash21/Neuroimaging), [Allen-Brain](https://github.com/Prokash21/Allen-Brain), [Computational-Neuroscience](https://github.com/Prokash21/Computational-Neuroscience)
 
-  - title: Remote Research Assistant
+  - title: Research Volunteer
     company: The University of Queensland
     company_url: 'https://www.uq.edu.au/'
     location: Brisbane, Australia (remote)
@@ -98,8 +99,9 @@ experience:
       
       Responsibilities and Experience:
       - Conducted bulk ncRNA-seq analysis on cancer cell lines, including ADMSC, BMMSC, HeLa, MCF7, MDAMB231, TM6, A549, H1975.
-      - Analyzed the expression profiles of Y and U glycoRNAs to examine their significance in extracellular vesicles (EVs), epithelial–mesenchymal transition (EMT) and in lung cancer.
+      - Analyzed the expression profiles of Y and U miRNAs to examine their significance in extracellular vesicles (EVs), epithelial–mesenchymal transition (EMT) and in lung cancer.
       - Filtered ncRNAs using ncRNAtools (RNAcentral API) and applied RFE-RF for feature selection in ML analysis.
+      - Discovered snc-markers of EMT, EV, and lung cancer and common among all and analyzed their qRT-PCR validation result.
       
       Project: 
       - Chip development for small non-coding RNA (sncRNA) isolation and marker-based cancer detection. 
@@ -120,7 +122,7 @@ experience:
       Responsibilities and Experience:
       - Detected malignant HNSCC samples via histopathology and screened for HPV using multiplex and nested PCR.
       - Performed Sanger sequencing of the L1 viral gene and immunohistochemistry of host proteins for validation.
-      - Validating cancer-specific biomarkers identified through multi-omics (WGCNA, scRNA-seq, proteomics) with molecular techniques.
+      - Conducting molecular techniques to validate cancer-specific biomarkers retrieved through a multi-omics approach, including WGCNA, scRNA-seq, proteomics, and ChIP-seq.
       
       Project: 
       - Genomic Exploration of HPV-Associated Head Neck Squamous Cell Carcinoma Occurrence in Bangladesh: An Integrative Histopathological Analysis and Molecular Profiling of HPV.
@@ -143,11 +145,11 @@ experience:
       Responsibilities and Experience:
       - Applied Neural Network Framework (VAE) to train the big integrated data of 26 transcriptomic datasets for Oropharyngeal Carcinoma.
       - Implemented Integrated Gradients, ensemble latent feature learning, and TCGA survival benchmarking.
-      - Synthesized Ag-deposited Ni/rGO nanoparticles and evaluated sensor and biological properties for collaborative projects. 
+      - Synthesized Ag‑deposited Ni/rGO nanozymes; evaluating their peroxidase mimicking activity for monitoring neuronal oxidative stress. 
 
       Projects:
       - Beyond Differential Expression: Deep Neural Profiling reveals RAP1GAP2 as a latent regulator of tumor invasion in Oropharyngeal Carcinoma.
-      - Synthesis and application of Ag-deposited Ni/rGO nanospheres in glucose sensing, antibacterial properties, and antioxidant activity.
+      - Synthesis and application of Ag-deposited Ni/rGO nanozymes for Oxidative Stress and Neuroinflammation Sensing.
       
       GitHub: 
       - [Deep-Neural-Profiling](https://github.com/Prokash21/Deep-Neural-Profiling)

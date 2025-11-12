@@ -21,8 +21,9 @@ interests:
 - Neural Genomics
 - Computational Neuroscience
 - Single-cell and Spatial Transcriptomics
-- Neuroimaging
+- Neuroimaging and Optogenetics 
 - Genomic Language Models (gLMs)
+- Biological computing
 
 
 # Education to show in About widget
@@ -73,11 +74,18 @@ email: "joy21.dev.pd@gmail.com"
 highlight_name: true
 ---
 
-I am a masters research student at the department of BMB, SUST. I am working under supervision of <a href="https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en">Dr. Tanvir Hossain</a>. I have been contributing to several research projects and even worked remotely for a research project at [The University of Queensland](https://www.uq.edu.au/). Besides that, I work on a collaborative project on cancer genomics with BMU, Dhaka, under the supervision of <a href="https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1">Dr. S M Rashed Ul Islam</a>.
+I’m a recent graduate in Biochemistry and Molecular Biology from Shahjalal University of Science and Technology (SUST), Sylhet. My fascination in biochemistry emerges from its ability to unravel the molecular foundation of brain. 
+
+To address this enormity, I started my research journey in my second year, choosing to focus on fundamentals of biochemistry, gene expression, as my starting point. My early work focused on decoding biological systems through computation and validating hypotheses in the wet lab. Gradually, I expanded into computational modeling, using neural network frameworks to uncover the latent molecular features that govern brain function across different conditions.
+
+I believe that a peaceful and disciplined mind is essential for both life and research. As Sri Krishna said, “The mind can be your greatest ally or your worst enemy.” Considering this, my curiosity now revolves around understanding the mysteries of the brain.
+
+
+<!--# I am a masters research student at the department of BMB, SUST. I am working under supervision of <a href="https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en">Dr. Tanvir Hossain</a>. I have been contributing to several research projects and even worked remotely for a research project at [The University of Queensland](https://www.uq.edu.au/). Besides that, I work on a collaborative project on cancer genomics with BMU, Dhaka, under the supervision of <a href="https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1">Dr. S M Rashed Ul Islam</a>.
 
 I have always approached biochemistry from a translational perspective, connecting biology with computational techniques to solve biological problems. For my research and learning, I take guidance on single cell transcriptomics, machine learning, and neuroscience, from <a href="https://preonath.github.io/about.html">Preonath Chondrow Dev</a>, work as a research officer in Child Health Research Foundation (CHRF), Dhaka. In one of my current research projects, I am investigating some <a href="https://github.com/Prokash21/Deep-Neural-Profiling">latent features</a>, which are the molecular driver genes, controlling the regulation of a molecular pathway, using the VAE + IG framework, combining neural network modeling with RNA-seq and qRT-PCR validation.
 
-I firmly believe that maintaining a peaceful mind is essential for both living life fully and doing meaningful research. Sri Krishna says, “The mind can be your greatest ally or your worst enemy.” With this in mind, my curiosity now revolves around understanding the mysteries of the brain.
+I firmly believe that maintaining a peaceful mind is essential for both living life fully and doing meaningful research. Sri Krishna says, “The mind can be your greatest ally or your worst enemy.” With this in mind, my curiosity now revolves around understanding the mysteries of the brain. -->
 
 <!--# Earlier, I completed my undergraduate degree, when I got involved in projects with my two respected faculty members: <a href="https://scholar.google.com/citations?user=VESJwAMAAAAJ&hl=en">Ajit Ghosh, PhD</a>, who runs the Genomics and Transcriptomics laboratory, and <a href="https://www.sust.edu/departments/bmb/faculty/papia-bmb@sust.edu">Papia Rahman</a>, who runs a collaborative work in nanoparticles with the department of Chemistry, BUET -->
 

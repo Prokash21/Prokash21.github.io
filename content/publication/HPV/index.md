@@ -34,7 +34,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Presented 11th Wuhan International Symposium on Modern Virology Viruses 2025, Wuhan, China; Accepted @ IPVS 2025 – International Papillomavirus Conference, Bangkok, Thailand; Published @ NCBI GenBank
-publication_short: Presented @ 11th Wuhan International Symposium on Modern Virology & Viruses 2025, Wuhan, China; Accepted @ IPVS 2025 – International Papillomavirus Conference, Bangkok, Thailand; Published @ NCBI GenBank
+publication_short: Presented @ 11th Wuhan International Symposium on Modern Virology & Viruses 2025, Wuhan, China ; Accepted @ IPVS 2025 – International Papillomavirus Conference, Bangkok, Thailand; Published @ NCBI GenBank
 
 abstract: |
   **Introduction:** The present devastating status of Head and Neck Squamous Cell Carcinoma (HNSCC) in Bangladesh has raised concerns about understanding the underlying factors associated with this disease. The amplifying rate of infection has been reported across several regions of the Asian continent and has propagated in a multitude of people. The hidden factor that contributes to the detrimental circumstances of HNSCC in Bangladesh has not been revealed yet due to limited studies on HPV-associated HNSCC. HPV is one of the most critical factors accountable for developing HNSCC. This study aimed to identify the occurrence of HPV-associated HNSCC using multiplex PCR and Sanger sequencing techniques. Furthermore, we also identified HPV as the prime factor responsible for HNSCC through machine learning approaches.
@@ -54,9 +54,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Best Poster Award
+   url: https://sciforum.net/event/wisomviruses2025?section=#PostConference
 
 url_pdf: ''
 url_code: 'https://github.com/Prokash21/HNSCC-HPV'
