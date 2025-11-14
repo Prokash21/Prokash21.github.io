@@ -30,6 +30,12 @@ I was a scout during my school life, and there was a motto I promised to follow,
 I have donated blood multiple times, and the most priceless thing is that some of the people I helped still call me to ask about my health. (First picture on the left.)<br>
 In the second picture, I was distributing blankets. In the second row, second column, we were sorting the collected winter clothes. In the next picture, I was selling books at the charity book fair, and in the last one, the poster you see was designed by me to invite students from other universities to our charity film festival.
 
+###  Teaching & Mentoring 
+
+Growing up watching my father serve as a schoolteacher for three decades shaped my instinct to teach and guide others. The first real opportunity came during the COVID-19 lockdown, when I organized an online science batch for students who had just completed SSC. I even built a handmade stand to hold my phone during classes. With the earnings from my first month, I gifted a watch to Shahrul Vai, my physics and chemistry mentor whose notes I used in my lectures, cleared a hostel due, and supported my family at home.
+
+From that starting point, I led two batches of HSC students, teaching physics, biology, and chemistry. Later, I taught SSC-level physics and biology at a coaching center in Sylhet, followed by two full university-admission batches where many students secured places in major public universities. Altogether, through online classes, coaching centers, and private tutoring, I taught and mentored more than 80 students.
+
 
 ### Travelling and Photography 
 <center><img src="media/Photography_jpd.jpg" alt="States and National parks I visited"/></center>
