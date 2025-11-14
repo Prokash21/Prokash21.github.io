@@ -40,7 +40,7 @@ From that starting point, I led two batches of HSC students, teaching physics, b
 ### Travelling and Photography 
 <center><img src="media/Photography_jpd.jpg" alt="States and National parks I visited"/></center>
 I’ve always loved exploring new places. The best part of going on a summit is losing your mobile network for those five or six days and it feels like the outside world doesn’t exist.<br>
-I love taking photos and feel passionate about capturing story the harmony of nature. Looking back at those pictures in my archive is like pressing Ctrl + Z, which instantly takes me back to that exact moment.<br>
+I love taking photos and feel passionate about capturing the harmony of nature. Looking back at those pictures in my archive is like pressing Ctrl + Z, which instantly takes me back to that exact moment.<br>
 Here are some moments I captured during my travels.
 
 ### Music
