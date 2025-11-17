@@ -46,14 +46,14 @@ Here are some moments I captured during my travels.
 ### Music
 <center><img src="media/Music.jpg" alt="" /></center>
 
-Everyone in my family is involved in music. Though I was initially pressured to learn, I eventually fell in love with it.<br> In 2013, I secured first place in classical music at the [Zila Shilpakala Academy](https://shilpakala.narsingdi.gov.bd/), Narsingdi, and overall won prizes in both school and national competitions, including Best Singer in Classical Music at Mohammadpur Thana ([College](https://sjs.edu.bd/new/index.php) time).<br>
+Everyone in my family is involved in music. Though I was initially pressured to learn, I eventually fell in love with it.<br> In 2013, I secured first place in classical music at the [Zila Shilpakala Academy](https://shilpakala.narsingdi.gov.bd/), Narsingdi. Overall, I won prizes in both school and national competitions, including Best Singer in Classical Music at Mohammadpur Thana ([College](https://sjs.edu.bd/new/index.php) time).<br>
 As my fascination with different musical instruments grows, I've already learned to play more than 12 (you can find some of them pictured above), and I aspire to play every instrument that exists in the world.
 Here are a few moments from my performances in different programs at SUST.
 
 ### Sports
 <center><img src="media/Sports.jpg" alt="" /></center>
 
-Since childhood, I’ve loved playing sports, especially football. I started watching football because of Kaká, and I’ve been a ultra Real Madrid fan. I played as a midfielder for the BMB team in the SUST Inter-Department Football Tournament 2023.<br>
+Since childhood, I’ve loved playing sports, especially football. I started watching football because of Kaká, and I’ve been an ultra Real Madrid fan. I played as a midfielder for the BMB team in the SUST Inter-Department Football Tournament 2023.<br>
 The picture on the left is from a match during BMB Sports Week 2022, and the one on the right was taken when we became runners-up in the BMB Champions League 2022.
 
 ### Reading Books
