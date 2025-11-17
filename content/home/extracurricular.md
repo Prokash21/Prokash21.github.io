@@ -32,9 +32,9 @@ In the second picture, I was distributing blankets. In the second row, second co
 
 ###  Teaching & Mentoring 
 
-Growing up watching my father serve as a schoolteacher for three decades shaped my instinct to teach and guide others. The first real opportunity came during the COVID-19 lockdown, when I organized an online science batch for students who had just completed SSC. I even built a handmade stand to hold my phone during classes. With the earnings from my first month, I gifted a watch to Shahrul Vai, my physics and chemistry mentor whose notes I used in my lectures, cleared a hostel due, and supported my family at home.
+Growing up observing my father serve as a high schoolteacher for three decades cultivated my innate desire to teach and guide others. The first real opportunity came during the COVID-19 lockdown, when I organized an online science batch for students who had just completed SSC. I even built a handmade stand to hold my phone during classes. With the earnings from my first month, I gifted a watch to Shaharul Vai, my Physics and Chemistry mentor whose notes I used in my lectures, cleared a hostel due, and supported my family at home.
 
-From that starting point, I led two batches of HSC students, teaching physics, biology, and chemistry. Later, I taught SSC-level physics and biology at a coaching center in Sylhet, followed by two full university-admission batches where many students secured places in major public universities. Altogether, through online classes, coaching centers, and private tutoring, I taught and mentored more than 80 students.
+From that starting point, I led two batches of HSC students, teaching Physics, Biology, ICT, Chemistry and Math. Later, I taught SSC-level physics and biology at a coaching center in Sylhet, followed by two full university-admission batches where many students secured places in major public universities. Altogether, through online classes, coaching centers, and private tutoring, I taught and mentored more than 70 students.
 
 
 ### Travelling and Photography 
