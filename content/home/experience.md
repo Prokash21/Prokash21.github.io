@@ -29,7 +29,7 @@ experience:
     date_start: '2022-10-01'
     date_end: '2024-07-31'
     description: |
-      Supervisor: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor
+      Supervisors: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Saifuddin Sarker](https://scholar.google.com/citations?user=rbbTjC4AAAAJ&hl=en), Research Officer; [Preonath Chondrow Dev](https://preonath.github.io/about.html), Research Officer
       
       Responsibilities and Experience:
       - Implemented a full RNA-seq workflow (bash) for gene quantification from GEO/SRA FASTQ files and performed differential expression analysis with edgeR, limma, and DESeq2.
@@ -68,13 +68,13 @@ experience:
       - [BioSalT](https://github.com/Prokash21/BioSalT), [Genome-Wide](https://github.com/Prokash21/Genome-Wide)
 
   - title: Research Assistant
-    company: Child Health Research Foundation (CHRF), Dhaka
+    company: BMB; Child Health Research Foundation (CHRF), Dhaka
     company_url: 'https://chrfbd.org/'
     location: Dhaka, Bangladesh
     date_start: '2024-06-01'
     date_end: ''
     description: |
-      Supervisors: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Preonath Chondrow Dev](https://preonath.github.io/about.html), Research Officer
+      Supervisors: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Saifuddin Sarker](https://scholar.google.com/citations?user=rbbTjC4AAAAJ&hl=en), Research Officer; [Preonath Chondrow Dev](https://preonath.github.io/about.html), Research Officer
       
       Responsibilities and Experience:
       - Developed omicML (GUI) to enable biologists to build biomarker algorithms from transcriptomic data.
@@ -117,7 +117,7 @@ experience:
     date_start: '2024-11-01'
     date_end: ''
     description: |
-      Supervisor: [Dr. S M Rashed Ul Islam](https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1), Associate Professor
+      Supervisor: [Dr. S M Rashed Ul Islam](https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1), Associate Professor; [Papia Rahman](https://www.sust.edu/departments/bmb/faculty/papia-bmb@sust.edu), Lecturer
       
       Responsibilities and Experience:
       - Detected malignant HNSCC samples via histopathology and screened for HPV using multiplex and nested PCR.
