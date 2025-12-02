@@ -19,6 +19,7 @@ bio: My research interests include computational biology and machine learning.
 # Interests to show in About widget
 interests:
 - Neural Multi-Omics
+- Patch-seq
 - Single-cell and Spatial Transcriptomics
 - Computational Neuroscience
 - Neuroimaging and Optogenetics

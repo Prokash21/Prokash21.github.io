@@ -1,1 +1,14 @@
-{{/* Override theme's google analytics partial to avoid template errors during local build. */}}
+{{/* Render Google Analytics (GA4) gtag.js when `marketing.google_analytics` is set.
+	 If `privacy_pack` is enabled, do not inject analytics here (respect privacy settings).
+*/}}
+{{ $ga := .Site.Params.marketing.google_analytics }}
+{{ $privacy := .Site.Params.privacy_pack }}
+{{ if and $ga (not $privacy) }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $ga }}"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);} 
+	gtag('js', new Date());
+	gtag('config', '{{ $ga }}');
+</script>
+{{ end }}
