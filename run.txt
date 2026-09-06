@@ -1,4 +1,24 @@
 # Run instructions
+#
+# macOS/Linux (current repository)
+# --------------------------------
+# From the repository root:
+#   cd "/Users/prokash/DWCT/Github/Prokash21.github.io"
+#
+# Install Hugo Extended once if Hugo is not already installed:
+#   brew install hugo
+#
+# Start the local development server:
+#   hugo server -D -s .
+#
+# Open the URL printed by Hugo, usually http://localhost:1313/.
+# Stop the server with Ctrl+C.
+#
+# Build the GitHub Pages output into docs/:
+#   hugo --gc --minify -s . -d docs
+#
+# Windows/PowerShell
+# ------------------
 # Use the provided PowerShell starter script `run.ps1` which will:
 #  - install Hugo to .\tools once (if missing)
 #  - pick a free port starting at 1313 if 1313 is already in use
@@ -10,7 +30,8 @@
 #    powershell -ExecutionPolicy Bypass -File .\run.ps1
 #    
 
-#### Set-Location -Path "E:\DWCT\PHD_apply\portfolio\dump_4" # chnage location
+# Run from the repository root, or change to this checkout first:
+#    Set-Location -Path "E:\DWCT\PHD_apply\portfolio\dump_4"
 
 # Or just run the script directly (no rename required):
 #    powershell -ExecutionPolicy Bypass -File .\run.ps1
@@ -21,11 +42,16 @@
 # Tip: To allow access from other devices, run with --bind 0.0.0.0 and open the port in Windows Firewall.
 
 
-# if you used docs:
-cd E:\DWCT\PHD_apply\portfolio\dump_4
+# Windows build and push example:
+#    Set-Location -Path "E:\DWCT\PHD_apply\portfolio\dump_4"
 # build Hugo output into docs/
-hugo --minify -d docs
+hugo --gc --minify -d docs
 # or (if using blogdown in R) set publishDir in config and run blogdown::hugo_cmd()
 git add -A
 git commit -m "deploy: build site into docs/"
 git push origin main
+
+# macOS/Linux push workflow:
+#    git add -A
+#    git commit -m "Update portfolio"
+#    git push origin main

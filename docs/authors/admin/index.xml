@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Admin | Joy Prokash Debnath</title>
+    <title>Joy Prokash Debnath</title>
     <link>http://localhost:1313/authors/admin/</link>
       <atom:link href="http://localhost:1313/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Admin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <description>Joy Prokash Debnath</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright>
+    <image>
+      <url>http://localhost:1313/images/icon_hu_bb0d1ad3fa422112.png</url>
+      <title>Joy Prokash Debnath</title>
+      <link>http://localhost:1313/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>First Report of Partial HPV 16 and HPV 18 L1 Gene Sequences from Head-Neck Squamous Cell Carcinoma Tissues in Bangladesh</title>
+      <link>http://localhost:1313/publication/hpv_manuscript/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hpv_manuscript/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>BioSalT: a multigene machine learning model for early salinity stress detection in Solanum lycopersicum</title>
       <link>http://localhost:1313/publication/biosalt/</link>
@@ -15,7 +29,7 @@
     </item>
     
     <item>
-      <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
+      <title>omicML: an integrative tool of bioinformatics and machine learning algorithms to identify transcriptomic biomarkers</title>
       <link>http://localhost:1313/publication/omicml/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/omicml/</guid>
@@ -23,10 +37,18 @@
     </item>
     
     <item>
-      <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma</title>
+      <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor invasion in Oropharyngeal Carcinoma</title>
       <link>http://localhost:1313/publication/deep_profile/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/deep_profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular screening of Head and Neck Squamous Cell Carcinoma patients for Human Papillomavirus</title>
+      <link>http://localhost:1313/publication/hpv/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hpv/</guid>
       <description></description>
     </item>
     

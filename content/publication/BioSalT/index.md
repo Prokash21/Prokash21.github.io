@@ -28,8 +28,8 @@ publishDate: "2025-11-03T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Manuscript in Preparation
-publication_short: Manuscript in Preparation
+publication: In Review
+publication_short: In Review
 
 abstract: Salinity stress is a major threat to Solanum lycopersicum (tomato) yields, necessitating tools for early detection. We employed a computational pipeline leveraging Machine Learning (ML) for robust feature selection, followed by Functional Analysis (FA) to confirm the biological relevance of candidate biomarkers. The resulting multigene predictive model was then rigorously validated in the wet lab using the qRT-PCR. This novel, validated approach yields BioSalT, an accurate multigene ML model engineered for the early and timely diagnosis of salinity stress in tomato.
 

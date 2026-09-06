@@ -1,5 +1,5 @@
 ---
-title: "Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor tnvasion in Oropharyngeal Carcinoma"
+title: "Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor invasion in Oropharyngeal Carcinoma"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,7 +15,7 @@ authors:
 # - "Corresponding Author"
 
 date: "2025-10-17T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.5281/zenodo.17380032"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-03T00:00:00Z"
@@ -27,8 +27,8 @@ publishDate: "2025-11-03T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Zenodo*
-publication_short: In *Zenodo*
+publication: Defended and presented at undergraduate thesis poster; published in *Zenodo*
+publication_short: Undergraduate thesis poster; published in *Zenodo*
 
 abstract: |
   **Background:** Conventional differential gene expression (DGE) analysis inadequately captures the complex molecular changes that drive the progression of oropharyngeal carcinoma (OC). Variational Autoencoder (VAE) offers a deep learning approach to uncover hidden patterns in high-dimensional transcriptomic data, potentially revealing novel molecular regulators.

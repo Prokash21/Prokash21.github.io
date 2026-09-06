@@ -1,5 +1,5 @@
 ---
-title: "omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification"
+title: "omicML: an integrative tool of bioinformatics and machine learning algorithms to identify transcriptomic biomarkers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -33,8 +33,8 @@ publishDate: "2025-11-03T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *bioRxiv*
-publication_short: In *bioRxiv; Submitted @ Bioinformatics, Oxford University Press*
+publication: Published in *bioRxiv*; manuscript under review at *PLOS One*
+publication_short: "bioRxiv; under review at PLOS One"
 
 abstract: |
   **Introduction:** Transcriptomic biomarker discovery has been a challenge due to variation in datasets and platforms, complexity in statistical and computational methods, integration of multiple programming languages, and intricacy of ML workflow to evaluate biomarkers. Standard workflows necessitate several stages (quality control, normalization, differential expression), typically executed in R or Python, resulting in bottlenecks for non-experts. Existing platforms have alleviated certain challenges by offering graphical interfaces for data loading, normalization, differential gene expression analysis, and functional analysis; nevertheless, they typically do not incorporate integrated machine learning procedures for biomarker selection.
@@ -62,7 +62,7 @@ url_pdf: 'paper/omicML.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'omicml.org'
+url_project: 'https://omicml.org'
 url_slides: ''
 url_source: ''
 url_video: ''
