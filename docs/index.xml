@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joy Prokash Debnath</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://prokash21.github.io/</link>
+      <atom:link href="https://prokash21.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Joy Prokash Debnath</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2025-2026 Joy Prokash Debnath</copyright><lastBuildDate>Thu, 08 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_bb0d1ad3fa422112.png</url>
+      <url>https://prokash21.github.io/images/icon_hu_bb0d1ad3fa422112.png</url>
       <title>Joy Prokash Debnath</title>
-      <link>http://localhost:1313/</link>
+      <link>https://prokash21.github.io/</link>
     </image>
     
     <item>
       <title>First Report of Partial HPV 16 and HPV 18 L1 Gene Sequences from Head-Neck Squamous Cell Carcinoma Tissues in Bangladesh</title>
-      <link>http://localhost:1313/publication/hpv_manuscript/</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hpv_manuscript/</guid>
+      <link>https://prokash21.github.io/publication/hpv_manuscript/</link>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://prokash21.github.io/publication/hpv_manuscript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub Profile</title>
-      <link>http://localhost:1313/project/github-profile/</link>
+      <link>https://prokash21.github.io/project/github-profile/</link>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/github-profile/</guid>
+      <guid>https://prokash21.github.io/project/github-profile/</guid>
       <description>&lt;p&gt;This is a snapshot of my GitHub profile. This single project entry is intended as a short portfolio card linking to my repositories and profile page.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BioSalT: a multigene machine learning model for early salinity stress detection in Solanum lycopersicum</title>
-      <link>http://localhost:1313/publication/biosalt/</link>
+      <link>https://prokash21.github.io/publication/biosalt/</link>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/biosalt/</guid>
+      <guid>https://prokash21.github.io/publication/biosalt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>omicML: an integrative tool of bioinformatics and machine learning algorithms to identify transcriptomic biomarkers</title>
-      <link>http://localhost:1313/publication/omicml/</link>
+      <link>https://prokash21.github.io/publication/omicml/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/omicml/</guid>
+      <guid>https://prokash21.github.io/publication/omicml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor invasion in Oropharyngeal Carcinoma</title>
-      <link>http://localhost:1313/publication/deep_profile/</link>
+      <link>https://prokash21.github.io/publication/deep_profile/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/deep_profile/</guid>
+      <guid>https://prokash21.github.io/publication/deep_profile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular screening of Head and Neck Squamous Cell Carcinoma patients for Human Papillomavirus</title>
-      <link>http://localhost:1313/publication/hpv/</link>
+      <link>https://prokash21.github.io/publication/hpv/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hpv/</guid>
+      <guid>https://prokash21.github.io/publication/hpv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome-wide identification and characterization of m6A regulatory genes in Soybean: Insights into evolution, miRNA interactions, and stress responses</title>
-      <link>http://localhost:1313/publication/genome_wide/</link>
+      <link>https://prokash21.github.io/publication/genome_wide/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/genome_wide/</guid>
+      <guid>https://prokash21.github.io/publication/genome_wide/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach</title>
-      <link>http://localhost:1313/publication/mpox_2022/</link>
+      <link>https://prokash21.github.io/publication/mpox_2022/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mpox_2022/</guid>
+      <guid>https://prokash21.github.io/publication/mpox_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Falling in Love at a Coffee Shop</title>
-      <link>http://localhost:1313/youtube/song/</link>
+      <link>https://prokash21.github.io/youtube/song/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/youtube/song/</guid>
+      <guid>https://prokash21.github.io/youtube/song/</guid>
       <description>&lt;h2 id=&#34;about-the-cover&#34;&gt;About The Cover&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Created: 11 Aug 2021&lt;/em&gt; (during the pandemic lockdown period)&lt;/p&gt;
 </description>
@@ -89,19 +89,19 @@
     
     <item>
       <title>Snakemake Intro</title>
-      <link>http://localhost:1313/talk/ashg_2015/</link>
+      <link>https://prokash21.github.io/talk/ashg_2015/</link>
       <pubDate>Fri, 29 Jan 2021 16:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/ashg_2015/</guid>
+      <guid>https://prokash21.github.io/talk/ashg_2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How I created my website</title>
-      <link>http://localhost:1313/post/2021-01-26_personal_website/</link>
+      <link>https://prokash21.github.io/post/2021-01-26_personal_website/</link>
       <pubDate>Tue, 26 Jan 2021 16:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-01-26_personal_website/</guid>
+      <guid>https://prokash21.github.io/post/2021-01-26_personal_website/</guid>
       <description>&lt;p&gt;Whether one needs a personal website for professional growth is out of the question. Of course, we need it. Instead, the question is: &lt;em&gt;how attractive and elegant is the website?&lt;/em&gt; Being a Ph.D. student, it&amp;rsquo;s not a surprise that I find an academic-theme website very attractive. Developing such a website from the scratch needs huge time and effort. Luckily, there are open source templates such as &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo templates&lt;/a&gt;. Recently I created &lt;a href=&#34;https://alorchhota.github.io/&#34; target=&#34;_blank&#34;&gt;my website&lt;/a&gt; using such a template. Below is a blurred screenshot of the site.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/website_preview.png&#34; alt=&#34;A blurred screenshot of the site&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://prokash21.github.io/posts/website_preview.png&#34; alt=&#34;A blurred screenshot of the site&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What I like about the website are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;It is simple in design, attractive in appearance, and elegant in presentation.&lt;/li&gt;
@@ -176,7 +176,7 @@ serve_site()
 # Launched the hugo server in the background (process ID: 9296). To stop it, call blogdown::stop_server() or restart the R session.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;At this point, the template website was visible in the RStudio &lt;em&gt;Viewer&lt;/em&gt; panel (see the image below).
-&lt;img src=&#34;http://localhost:1313/posts/rstudio_website.png&#34; alt=&#34;Sample website view in RStudio&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://prokash21.github.io/posts/rstudio_website.png&#34; alt=&#34;Sample website view in RStudio&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When I clicked on the button as marked by a red circle, the website opened in a web browser. Generally, the website updated updated each time I saved any change. Occasionally, I needed to stop the site by calling &lt;code&gt;stop_server()&lt;/code&gt;, and then restart by calling &lt;code&gt;build_site()&lt;/code&gt; and &lt;code&gt;serve_site()&lt;/code&gt; manually.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -548,7 +548,7 @@ Whether one needs a personal website ...
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;On the Github website, I went to &lt;em&gt;Settings&lt;/em&gt; of my repository, scrolled to the &lt;em&gt;Github Pages&lt;/em&gt; section, and set &lt;em&gt;master&lt;/em&gt; branch + &lt;em&gt;/docs&lt;/em&gt; folder as the source. Consequently, my site was published at &lt;a href=&#34;https://alorchhota.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://alorchhota.github.io/&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/gh_page_config.png&#34; alt=&#34;Github Pages Configuration&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://prokash21.github.io/posts/gh_page_config.png&#34; alt=&#34;Github Pages Configuration&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Note:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The repository must be public to use Github Pages for free.&lt;/li&gt;
@@ -588,9 +588,9 @@ git push
     
     <item>
       <title>Nucleotide base</title>
-      <link>http://localhost:1313/youtube/n_base/</link>
+      <link>https://prokash21.github.io/youtube/n_base/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/youtube/n_base/</guid>
+      <guid>https://prokash21.github.io/youtube/n_base/</guid>
       <description>&lt;h2 id=&#34;about-this-tutorial&#34;&gt;About This Tutorial&lt;/h2&gt;
 &lt;p&gt;Four different types of nitrogenous bases are found in DNA: adenine (A), thymine (T), cytosine (C), and guanine (G). In RNA, the thymine is replaced by uracil (U).&lt;/p&gt;
 &lt;p&gt;This educational resource provides a comprehensive overview of nitrogenous base structures, covering both purines (adenine, guanine) and pyrimidines (cytosine, thymine, uracil). Understanding these fundamental building blocks of DNA and RNA is crucial for students studying biochemistry and molecular biology.&lt;/p&gt;
@@ -609,17 +609,17 @@ The chemical structures of A, G, C, T, and U are shown in this video.&lt;/p&gt;
     
     <item>
       <title>False positives in trans-eQTL and co-expression analyses arising from RNA-sequencing alignment errors</title>
-      <link>http://localhost:1313/talk/buet_cs_bioinfo_2020/</link>
+      <link>https://prokash21.github.io/talk/buet_cs_bioinfo_2020/</link>
       <pubDate>Sat, 07 Nov 2020 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/buet_cs_bioinfo_2020/</guid>
+      <guid>https://prokash21.github.io/talk/buet_cs_bioinfo_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amino Acids</title>
-      <link>http://localhost:1313/youtube/amino_acid/</link>
+      <link>https://prokash21.github.io/youtube/amino_acid/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/youtube/amino_acid/</guid>
+      <guid>https://prokash21.github.io/youtube/amino_acid/</guid>
       <description>&lt;h2 id=&#34;about-this-video-tutorial&#34;&gt;About This Video Tutorial&lt;/h2&gt;
 &lt;p&gt;This video tutorial presents a shortcut method to learn all 20 amino acids in just 10 minutes. Many students struggle with memorizing the 20 different amino acid names and their chemical structures, so this project aims to simplify the learning process through visual demonstration and mnemonic techniques.&lt;/p&gt;
 &lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
@@ -636,17 +636,17 @@ Department of Biochemistry and Molecular Biology (BMB), 1/1&lt;/p&gt;
     
     <item>
       <title>Guest lecture on single-cell genomics</title>
-      <link>http://localhost:1313/talk/sc_lecture_2019/</link>
+      <link>https://prokash21.github.io/talk/sc_lecture_2019/</link>
       <pubDate>Mon, 25 Mar 2019 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/sc_lecture_2019/</guid>
+      <guid>https://prokash21.github.io/talk/sc_lecture_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>http://localhost:1313/slides/example/</link>
+      <link>https://prokash21.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/slides/example/</guid>
+      <guid>https://prokash21.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -772,122 +772,10 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>http://localhost:1313/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
-&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
-&lt;/ol&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; data-caption=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-
-
-  &lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemy&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-admin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Gene Interaction-Level Cancer Classification using Gene Expression Profiles</title>
-      <link>http://localhost:1313/talk/tbc_2012/</link>
+      <link>https://prokash21.github.io/talk/tbc_2012/</link>
       <pubDate>Sat, 13 Oct 2012 16:45:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/tbc_2012/</guid>
+      <guid>https://prokash21.github.io/talk/tbc_2012/</guid>
       <description></description>
     </item>
     
