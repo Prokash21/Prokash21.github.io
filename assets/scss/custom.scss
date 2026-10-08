@@ -1,0 +1,35 @@
+// About section: stack Interests above Education, each full width,
+// so neither list has to wrap.
+@media (min-width: 768px) {
+  #about .col-md-5:has(> .ul-interests),
+  #about .col-md-5:has(> .ul-interests) + .col-md-7 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+// On wide screens, lay interests out in two columns sized to their longest item.
+@media (min-width: 1200px) {
+  #about .ul-interests {
+    display: grid;
+    grid-template-rows: repeat(4, auto);
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    column-gap: 3rem;
+  }
+
+  #about .ul-interests li {
+    display: list-item;
+  }
+}
+
+#about .ul-interests li {
+  font-size: 0.95rem;
+}
+
+// Education: show the date on its own line under the degree.
+#about .ul-edu .edu-year {
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
