@@ -83,9 +83,6 @@ For my thesis at Bangladesh Medical University, I study the regulators of tumor 
 
 My research began with gene expression and regulation. I later brought machine learning and deep learning into my work to understand gene regulatory networks and the transcription factors that control them. I am especially interested in single-cell and spatial omics, which I use to uncover the mechanisms behind cancer and brain function.
 
-I believe a peaceful and disciplined mind is essential for both life and research. As Sri Krishna said, "The mind can be your greatest ally or your worst enemy."
-
-
 <!--# I am a masters research student at the department of BMB, SUST. I am working under supervision of <a href="https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en">Dr. Tanvir Hossain</a>. I have been contributing to several research projects and even worked remotely for a research project at [The University of Queensland](https://www.uq.edu.au/). Besides that, I work on a collaborative project on cancer genomics with BMU, Dhaka, under the supervision of <a href="https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1">Dr. S M Rashed Ul Islam</a>.
 
 I have always approached biochemistry from a translational perspective, connecting biology with computational techniques to solve biological problems. For my research and learning, I take guidance on single cell transcriptomics, machine learning, and neuroscience, from <a href="https://preonath.github.io/about.html">Preonath Chondrow Dev</a>, work as a research officer in Child Health Research Foundation (CHRF), Dhaka. In one of my current research projects, I am investigating some <a href="https://github.com/Prokash21/Deep-Neural-Profiling">latent features</a>, which are the molecular driver genes, controlling the regulation of a molecular pathway, using the VAE + IG framework, combining neural network modeling with RNA-seq and qRT-PCR validation.
