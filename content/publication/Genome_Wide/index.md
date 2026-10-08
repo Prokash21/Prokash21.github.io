@@ -17,7 +17,7 @@ authors:
 # - "Corresponding Author"
 
 date: "2025-07-24T00:00:00Z"
-doi: "https://doi.org/10.1371/journal.pone.0328773"
+doi: "10.1371/journal.pone.0328773"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-03T00:00:00Z"

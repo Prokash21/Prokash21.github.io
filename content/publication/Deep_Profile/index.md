@@ -15,7 +15,7 @@ authors:
 # - "Corresponding Author"
 
 date: "2025-10-17T00:00:00Z"
-doi: "https://doi.org/10.5281/zenodo.17380032"
+doi: "10.5281/zenodo.17380032"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-03T00:00:00Z"

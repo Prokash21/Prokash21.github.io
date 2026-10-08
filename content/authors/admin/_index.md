@@ -12,27 +12,29 @@ role: Graduate Research Assistant
 organizations:
 - name: BMB, SUST
   url: https://www.sust.edu/departments/bmb
+- name: Bangladesh Medical University (BMU)
+  url: https://www.bmu.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational biology and machine learning.
+bio: I study the regulatory programs that drive cell behavior in cancer and the brain, pairing machine learning with experimental validation.
 
 # Interests to show in About widget
 interests:
-- Neural Multi-Omics
-- Patch-seq
-- Single-cell and Spatial Transcriptomics
-- Computational Neuroscience
-- Neuroimaging and Optogenetics
-- Multimodal Neural Modeling
-- Biological Computing
+- Gene Expression and Regulation
+- Functional Genomics
+- Cancer Biology
+- Single-Cell and Spatial Transcriptomics
+- Machine Learning and Deep Learning
+- Systems and Computational Neuroscience
+- Neural Dynamics and Optogenetics
 
 
 # Education to show in About widget
 education:
   courses:
   - course: Master of Science (M.Sc.) in Biochemistry and Molecular Biology
-    institution: Shahjalal University of Science and Technology (SUST)
-    year: Aug 2025 - Jun 2026 (Expected)
+    institution: Shahjalal University of Science and Technology (SUST) [Thesis at BMU]
+    year: Aug 2025 - Jan 2027 (Expected)
   - course: Bachelor of Science (B.Sc.) in Biochemistry and Molecular Biology (BMB)
     institution: Shahjalal University of Science and Technology (SUST) [Graduation Delayed Due to Covid-19 Pandemic]
     year: Feb 2020 - Jun 2025
@@ -75,11 +77,13 @@ email: "joy21.dev.pd@gmail.com"
 highlight_name: true
 ---
 
-I’m a recent graduate in Biochemistry and Molecular Biology from Shahjalal University of Science and Technology (SUST), Sylhet. My fascination in biochemistry emerges from its ability to unravel the molecular foundation of brain. 
+I am a Master's student in Biochemistry and Molecular Biology at Shahjalal University of Science and Technology (SUST), Sylhet. My research asks one question across different systems: which regulatory programs drive a cell's behavior, and what happens when they fail? To answer it, I pair machine learning with experimental validation.
 
-To address this enormity, I started my research journey in my second year, choosing to focus on fundamentals of biochemistry, gene expression, as my starting point. My early work focused on decoding biological systems through computation and validating hypotheses in the wet lab. Gradually, I expanded into computational modeling, using neural network frameworks to uncover the latent molecular features that govern brain function across different conditions.
+For my thesis at Bangladesh Medical University, I study the regulators of tumor cells in head and neck squamous cell carcinoma. I also work on other cancers there, from sample collection to histology, immunohistochemistry and qRT-PCR. Alongside this, I am exploring how gene expression shapes neuronal activity.
 
-I believe that a peaceful and disciplined mind is essential for both life and research. As Sri Krishna said, “The mind can be your greatest ally or your worst enemy.” Considering this, my curiosity now revolves around understanding the mysteries of the brain.
+My research began with gene expression and regulation. I later brought machine learning and deep learning into my work to understand gene regulatory networks and the transcription factors that control them. I am especially interested in single-cell and spatial omics, which I use to uncover the mechanisms behind cancer and brain function.
+
+I believe a peaceful and disciplined mind is essential for both life and research. As Sri Krishna said, "The mind can be your greatest ally or your worst enemy."
 
 
 <!--# I am a masters research student at the department of BMB, SUST. I am working under supervision of <a href="https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en">Dr. Tanvir Hossain</a>. I have been contributing to several research projects and even worked remotely for a research project at [The University of Queensland](https://www.uq.edu.au/). Besides that, I work on a collaborative project on cancer genomics with BMU, Dhaka, under the supervision of <a href="https://scholar.google.com/citations?user=lAGY-V8AAAAJ&hl=en&authuser=1">Dr. S M Rashed Ul Islam</a>.

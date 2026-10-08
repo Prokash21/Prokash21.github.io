@@ -20,7 +20,7 @@ authors:
 # - Tanvir Hossain
 
 date: "2025-01-23T00:00:00Z"
-doi: "https://doi.org/10.1038/s41598-024-80519-7"
+doi: "10.1038/s41598-024-80519-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-03T00:00:00Z"

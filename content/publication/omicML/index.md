@@ -21,7 +21,7 @@ authors:
 # - "Corresponding Author"
 
 date: "2025-10-27T00:00:00Z"
-doi: "https://doi.org/10.1101/2025.10.25.684517"
+doi: "10.1101/2025.10.25.684517"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-03T00:00:00Z"
