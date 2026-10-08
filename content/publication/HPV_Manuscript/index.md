@@ -9,7 +9,7 @@ authors:
 - Kabir Hossen
 - admin
 - Shamim Ahmed
-- Anwara Nessa
+- Afzalun Nessa
 
 date: "2026-10-08T00:00:00Z"
 doi: "10.1128/mra.00298-26"
