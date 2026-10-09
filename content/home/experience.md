@@ -129,7 +129,7 @@ experience:
       - Machine learning-driven identification and quantitative validation of cancer-specific biomarkers across multiple carcinomas.
       
       Institutions in collaboration:
-      - Department of Surgical Oncology, Department of Otolaryngology–Head & Neck Surgery, and Department of Pathology, BMU; Department of Surgical Oncology, National Institute of Cancer Research & Hospital (NICRH); and BMB, SUST. [More Info](https://github.com/Prokash21/Deep-Neural-Profiling/blob/main/BMU_PROJECT/README_BMU_PROJECT.md)
+      - Department of Surgical Oncology, Department of Otolaryngology–Head & Neck Surgery, and Department of Pathology, BMU; Department of Surgical Oncology, National Institute of Cancer Research & Hospital (NICRH); and BMB, SUST. [More Info](/project/cancer-biomarkers/)
 
       GitHub:
       - [HNSCC-HPV](https://github.com/Prokash21/HNSCC-HPV), [scRNA-seq](https://github.com/Prokash21/scRNA-seq)

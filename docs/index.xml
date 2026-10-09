@@ -72,6 +72,91 @@
     </item>
     
     <item>
+      <title>Cancer-Specific Biomarkers across Multiple Carcinomas</title>
+      <link>https://prokash21.github.io/project/cancer-biomarkers/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://prokash21.github.io/project/cancer-biomarkers/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Full title:&lt;/strong&gt; Machine Learning-Driven Identification and Quantitative Validation of Cancer-Specific Biomarkers across Multiple Carcinomas of Different Anatomic Sites&lt;/p&gt;
+&lt;h2 id=&#34;collaborating-institutions&#34;&gt;Collaborating institutions&lt;/h2&gt;
+&lt;div style=&#34;display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:2.5rem; margin:1.5rem 0;&#34;&gt;
+  &lt;img src=&#34;logo_sust.png&#34; alt=&#34;Shahjalal University of Science and Technology&#34; style=&#34;height:110px; width:auto;&#34;&gt;
+  &lt;img src=&#34;logo_bmu.png&#34; alt=&#34;Bangladesh Medical University&#34; style=&#34;height:110px; width:auto;&#34;&gt;
+  &lt;img src=&#34;logo_nicrh.png&#34; alt=&#34;National Institute of Cancer Research &amp; Hospital&#34; style=&#34;height:110px; width:auto;&#34;&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bangladesh Medical University (BMU):&lt;/strong&gt; Department of Virology (lead), Gynecological Oncology, Otolaryngology–Head &amp;amp; Neck Surgery, Surgical Oncology, and Pathology&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shahjalal University of Science and Technology (SUST):&lt;/strong&gt; Department of Biochemistry and Molecular Biology (lead)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;National Institute of Cancer Research &amp;amp; Hospital (NICRH):&lt;/strong&gt; Department of Surgical Oncology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; Early detection is critical for improving cancer prognosis, yet existing diagnostic biomarkers often lack adequate sensitivity and specificity. Advances in RNA sequencing, including single-cell RNA sequencing (scRNA-seq), have deepened our understanding of tumor heterogeneity. Computational pipelines can suggest potential biomarkers, but rigorous molecular validation is essential to confirm their clinical relevance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt; The project integrates bioinformatic analyses with molecular validation. The dry-lab phase covers acquisition and analysis of RNA-seq and scRNA-seq datasets, differential gene expression profiling, and machine learning-based biomarker prioritization. The wet-lab phase validates candidates in human tissue samples. Histopathological examination ensures sample integrity, and DNA, RNA and protein extractions enable validation through qRT-PCR, PCR assays and ELISA. Bioinformatic tools then place validated biomarkers within their molecular pathways.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Expected results:&lt;/strong&gt; A curated list of validated cancer-specific biomarkers, their expression profiles and associated molecular networks, along with key pathways underlying tumorigenesis across multiple anatomical sites.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt; By combining computational discovery with wet-lab validation, the study aims to establish highly sensitive and specific biomarkers for early cancer detection, contributing to precision oncology and better patient outcomes.&lt;/p&gt;
+&lt;h2 id=&#34;project-design&#34;&gt;Project design&lt;/h2&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;Project design: dry-lab discovery pipeline feeding into wet-lab validation&#34; style=&#34;display:block; max-width:520px; width:100%; margin:0 auto;&#34;&gt;
+&lt;h2 id=&#34;research-team&#34;&gt;Research team&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigator:&lt;/strong&gt; Dr. S. M. Rashed Ul Islam, Associate Professor, Department of Virology, BMU&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Co-Principal Investigator:&lt;/strong&gt; Tanvir Hossain, Department of Biochemistry and Molecular Biology, SUST&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Co-Investigator&lt;/th&gt;
+					&lt;th&gt;Position&lt;/th&gt;
+					&lt;th&gt;Department&lt;/th&gt;
+					&lt;th&gt;Institution&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Dr. Jannatul Ferdous&lt;/td&gt;
+					&lt;td&gt;Professor&lt;/td&gt;
+					&lt;td&gt;Gynecological Oncology&lt;/td&gt;
+					&lt;td&gt;BMU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Dr. Syed Farhan Ali Razib&lt;/td&gt;
+					&lt;td&gt;Associate Professor&lt;/td&gt;
+					&lt;td&gt;Otolaryngology–Head &amp;amp; Neck Surgery&lt;/td&gt;
+					&lt;td&gt;BMU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Dr. Hasan Shahrear Ahmed&lt;/td&gt;
+					&lt;td&gt;Associate Professor&lt;/td&gt;
+					&lt;td&gt;Surgical Oncology&lt;/td&gt;
+					&lt;td&gt;BMU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Dr. Ashrafur Rahman&lt;/td&gt;
+					&lt;td&gt;Assistant Professor&lt;/td&gt;
+					&lt;td&gt;Surgical Oncology&lt;/td&gt;
+					&lt;td&gt;NICRH&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Dr. Bishnu Pada Dey&lt;/td&gt;
+					&lt;td&gt;Associate Professor&lt;/td&gt;
+					&lt;td&gt;Pathology&lt;/td&gt;
+					&lt;td&gt;BMU&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Papia Rahman&lt;/td&gt;
+					&lt;td&gt;Lecturer&lt;/td&gt;
+					&lt;td&gt;Biochemistry and Molecular Biology&lt;/td&gt;
+					&lt;td&gt;SUST&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;collaboration-and-ethics&#34;&gt;Collaboration and ethics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration:&lt;/strong&gt; a joint project between BMU and SUST, with active participation from multiple clinical and research departments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethical clearance:&lt;/strong&gt; approved by the Institutional Review Boards of both BMU and SUST.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MoU:&lt;/strong&gt; signed between the collaborating institutions to share resources and responsibilities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sample collection:&lt;/strong&gt; ongoing. Cancer-positive samples are being collected through the partner clinical departments for molecular validation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Molecular screening of Head and Neck Squamous Cell Carcinoma patients for Human Papillomavirus</title>
       <link>https://prokash21.github.io/publication/hpv/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
