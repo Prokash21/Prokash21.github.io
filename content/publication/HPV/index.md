@@ -9,9 +9,8 @@ authors:
 - S M Rashed Ul Islam
 - admin
 - Kabir Hossen
-- Syed Farhan Ali Razib
 - Bishnu Pada Dey
-- Shamim Ahmed
+- Syed Farhan Ali Razib
 
 
 # # Author notes (optional)
