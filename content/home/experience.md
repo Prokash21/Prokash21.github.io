@@ -124,30 +124,26 @@ experience:
       - Implemented a full RNA-seq workflow (bash) for gene quantification from GEO/SRA FASTQ files and performed differential expression analysis with edgeR, limma, and DESeq2.
       - Built gene co-expression and network models to identify functional modules and hub genes enriched in biological pathways.
       - Benchmarked 15 supervised learning models using PyCaret and validated biomarkers with the best-performing classifiers.
-      - Compiled a multi-source gene expression database and trained DeepFoldChange using MLPRegressor.
       - Developed omicML (GUI) to enable biologists to build biomarker algorithms from transcriptomic data.
 
       Projects:
       - Identification of potential biomarkers for 2022 Mpox virus infection: a transcriptomic network analysis and machine learning approach.
       - markerMPXV: upregulation of RRAD and building of a biomarker algorithm for Mpox virus infection in comparison with other viral pathologies. [Used as a case study for [omicML](https://omicml.org/)]
-      - A deep fearning framework that emulates statistical models for differential gene expression analysis.
       - omicML: an integrative tool of bioinformatics and machine learning algorithms to identify transcriptomic biomarkers
 
       GitHub: 
-      - [Mpox-Project](https://github.com/Prokash21/2022_MPXV_Project), [Biomarker-Discovery](https://github.com/Prokash21/biomarker-discovery), [Bulk-RNA-seq](https://github.com/Prokash21/RNA-Seq-Analysis), [DeepFoldChange](https://github.com/Prokash21/DeepFoldChange), [DGE-analysis](https://github.com/Prokash21/DGE-analysis), [omicML-server](https://github.com/Prokash21/omicML-server), [omicML_RNA-seq](https://github.com/Prokash21/omicML_RNA-seq), [omicML-raw](https://github.com/Prokash21/omicML_raw)
+      - [Mpox-Project](https://github.com/Prokash21/2022_MPXV_Project), [Biomarker-Discovery](https://github.com/Prokash21/biomarker-discovery), [Bulk-RNA-seq](https://github.com/Prokash21/RNA-Seq-Analysis), [DGE-analysis](https://github.com/Prokash21/DGE-analysis), [omicML-server](https://github.com/Prokash21/omicML-server), [omicML_RNA-seq](https://github.com/Prokash21/omicML_RNA-seq), [omicML-raw](https://github.com/Prokash21/omicML_raw)
 
   - title: Independent Projects
     company: Self-directed learning projects
     company_url: ''
-    location: Remote
-    date_start: '2024-06-01'
-    date_end: ''
     description: |
       Projects I took on independently to learn new methods hands-on:
-      - **Parkinson's disease scRNA-seq:** end-to-end analysis of cerebrospinal fluid from 20 donors (Parkinson's and healthy controls) in Scanpy and Seurat, covering QC, Harmony integration, clustering, cell-type annotation, pseudobulk DESeq2, MrVI and pathway/TF analysis. [[repo](https://github.com/Prokash21/scRNA-seq/tree/main/parkinson%20disease)]
-      - **scRNA-seq pipeline (Seurat):** QC, clustering, cell-type annotation, trajectory, differential expression and enrichment analysis in R. [[repo](https://github.com/Prokash21/scRNA-seq)]
-      - **Patch-seq and epilepsy:** linked gene expression to neuronal electrophysiology (firing rate, rheobase, input resistance) with interpretable models on Allen Institute Patch-seq data, in a Snakemake pipeline. [[repo](https://github.com/Prokash21/Celltypes-Patchseq-Epilepsy)]
-      - **Allen Brain data:** explored Allen Institute cell-type, electrophysiology and Patch-seq datasets in Python. [[repo](https://github.com/Prokash21/Allen-Brain)]
-      - **Neuroimaging:** set up an R workflow for brain MRI morphometry and brain network analysis. [[repo](https://github.com/Prokash21/Neuroimaging)]
-      - **Computational neuroscience:** reran and modernized classic models from the University of Washington course (LNP, Poisson neurons, Hodgkin–Huxley, neural decoding, information theory). [[repo](https://github.com/Prokash21/Computational-Neuroscience)]
+      - **Parkinson's disease scRNA-seq:** end-to-end analysis of cerebrospinal fluid from 20 donors (Parkinson's and healthy controls) in Scanpy and Seurat, covering QC, Harmony integration, clustering, cell-type annotation, pseudobulk DESeq2, MrVI and pathway/TF analysis. GitHub: [scRNA-seq](https://github.com/Prokash21/scRNA-seq/tree/main/parkinson%20disease)
+      - **scRNA-seq pipeline (Seurat):** QC, clustering, cell-type annotation, trajectory, differential expression and enrichment analysis in R. GitHub: [scRNA-seq](https://github.com/Prokash21/scRNA-seq)
+      - **Patch-seq and epilepsy:** linked gene expression to neuronal electrophysiology (firing rate, rheobase, input resistance) with interpretable models on Allen Institute Patch-seq data, in a Snakemake pipeline. GitHub: [Celltypes-Patchseq-Epilepsy](https://github.com/Prokash21/Celltypes-Patchseq-Epilepsy)
+      - **Allen Brain data:** explored Allen Institute cell-type, electrophysiology and Patch-seq datasets in Python. GitHub: [Allen-Brain](https://github.com/Prokash21/Allen-Brain)
+      - **Neuroimaging:** set up an R workflow for brain MRI morphometry and brain network analysis. GitHub: [Neuroimaging](https://github.com/Prokash21/Neuroimaging)
+      - **DeepFoldChange:** a deep learning framework that emulates statistical models for differential gene expression analysis. Compiled a multi-source gene expression database and trained it with an MLPRegressor. GitHub: [DeepFoldChange](https://github.com/Prokash21/DeepFoldChange)
+      - **Computational neuroscience:** reran and modernized classic models from the University of Washington course (LNP, Poisson neurons, Hodgkin–Huxley, neural decoding, information theory). GitHub: [Computational-Neuroscience](https://github.com/Prokash21/Computational-Neuroscience)
 ---
