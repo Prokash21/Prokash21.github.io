@@ -34,7 +34,7 @@ education:
   courses:
   - course: Master of Science (M.Sc.) in Biochemistry and Molecular Biology
     institution: Shahjalal University of Science and Technology (SUST) [Thesis at BMU]
-    year: Aug 2025 - Jan 2027 (Expected)
+    year: Aug 2025 - Feb 2027 (Expected)
   - course: Bachelor of Science (B.Sc.) in Biochemistry and Molecular Biology (BMB)
     institution: Shahjalal University of Science and Technology (SUST) [Graduation Delayed Due to Covid-19 Pandemic]
     year: Feb 2020 - Jun 2025
