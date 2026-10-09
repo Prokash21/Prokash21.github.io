@@ -2,14 +2,14 @@
 {{ $page := .page }}
 {{ $columns := $page.Params.design.columns | default "2" }}
 
-<!-- Local override: Experience widget sorted newest → oldest -->
+<!-- Local override: Experience widget shown in file order (matches CV order) -->
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
   {{ with $page.Content }}{{ . }}{{ end }}
 
   {{ if $page.Params.experience }}
   {{ $exp_len := len $page.Params.experience }}
   {{/* Sort experiences by start date in descending order (newest first) */}}
-  {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
+  {{ range $idx, $key := $page.Params.experience }}
   <div class="row experience">
     <!-- Timeline -->
     <div class="col-auto text-center flex-column d-none d-sm-flex">
