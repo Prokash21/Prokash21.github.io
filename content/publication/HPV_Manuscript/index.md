@@ -1,5 +1,5 @@
 ---
-title: "First Report of Partial HPV 16 and HPV 18 L1 Gene Sequences from Head-Neck Squamous Cell Carcinoma Tissues in Bangladesh"
+title: "Partial Sequence of L1 Gene in HPV 16 and HPV 18 Isolated from Head-Neck Squamous Cell Carcinoma Tissues in Bangladesh"
 
 authors:
 - S M Rashed Ul Islam
@@ -18,8 +18,8 @@ publishDate: "2026-10-08T00:00:00Z"
 
 publication_types: ["2"]
 
-publication: "*Microbiology Resource Announcements*, 15(10), e00298-26"
-publication_short: In *Microbiology Resource Announcements, American Society for Microbiology*
+publication: "*Microbiology Resource Announcements*, American Society for Microbiology (ASM), 15(10), e00298-26. PMID: [42734331](https://pubmed.ncbi.nlm.nih.gov/42734331/)"
+publication_short: "In *Microbiology Resource Announcements*, 15(10), e00298-26. PMID: 42734331"
 
 abstract: |
   Human papillomavirus is one of the most crucial determinants responsible for the progression of head-neck squamous cell carcinoma (HNSCC). Here, we report partial L1 gene sequences of two high-risk etiological agents, HPV-16 and HPV-18, extracted through biopsies from multiple head-neck tissue regions of HNSCC patients in Bangladesh. HPV DNA was detected in 24.8% of HNSCC-confirmed samples, with HPV-16 being the most prevalent strain. The consensus sequences were submitted to GenBank under accession numbers PV107410.1, PV113111.1, PV113112.1, PV113113.1, PV113114.1, PV113115.1, PV126527.1, PV126528.1, PV126529.1, PV126530.1, PV126531.1, PV126532.1, and PV357593.1.

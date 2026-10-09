@@ -1,5 +1,5 @@
 ---
-title: "omicML: an integrative tool of bioinformatics and machine learning algorithms to identify transcriptomic biomarkers"
+title: "omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
