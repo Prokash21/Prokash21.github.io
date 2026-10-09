@@ -13,7 +13,45 @@
     </image>
     
     <item>
-      <title>First Report of Partial HPV 16 and HPV 18 L1 Gene Sequences from Head-Neck Squamous Cell Carcinoma Tissues in Bangladesh</title>
+      <title>Deep Neural Profiling Reveals RAP1GAP2 as a Latent Regulator in Head and Neck Cancer: Integrative Transcriptomic and Multi-omic Analysis</title>
+      <link>https://prokash21.github.io/publication/deep_profile/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://prokash21.github.io/publication/deep_profile/</guid>
+      <description>&lt;h2 id=&#34;whats-new-in-version-2-october-2026&#34;&gt;What&amp;rsquo;s new in version 2 (October 2026)&lt;/h2&gt;
+&lt;p&gt;Version 2 extends my undergraduate thesis into a preprint on &lt;strong&gt;head and neck cancer&lt;/strong&gt;. It keeps the same deep learning framework and adds a multi-omic follow-up of RAP1GAP2:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;No differential expression, confirmed:&lt;/strong&gt; RAP1GAP2 is not differentially expressed in 43 paired TCGA-HNSC patients or 20 paired GSE178537 patients.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Methylation:&lt;/strong&gt; the RAP1GAP2 promoter is hypomethylated in tumours, but this only weakly tracks its expression.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mutation, copy number and survival:&lt;/strong&gt; RAP1GAP2 is rarely mutated (1/515), shows only shallow copy-number changes, and is not linked to overall survival.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Genome-wide methylation:&lt;/strong&gt; TCGA-HNSC 450K arrays identify 163 hypermethylated-downregulated and 42 hypomethylated-upregulated genes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So RAP1GAP2&amp;rsquo;s signal is not explained by mutation, copy number or methylation, and its role now needs experimental validation.&lt;/p&gt;
+&lt;h3 id=&#34;manuscript-v2&#34;&gt;Manuscript (v2)&lt;/h3&gt;
+&lt;iframe src=&#34;https://prokash21.github.io/paper/deep_neural_profiling_v2_manuscript.pdf&#34; style=&#34;width:100%; height:80vh; border:1px solid #ddd;&#34; title=&#34;Version 2 manuscript&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;If the manuscript does not load here, &lt;a href=&#34;https://prokash21.github.io/paper/deep_neural_profiling_v2_manuscript.pdf&#34;&gt;open the PDF&lt;/a&gt;. Supplementary Tables S1–S10: &lt;a href=&#34;https://prokash21.github.io/paper/deep_neural_profiling_v2_supplementary_tables.xlsx&#34;&gt;download (.xlsx)&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;version-1-undergraduate-thesis-2025&#34;&gt;Version 1: undergraduate thesis (2025)&lt;/h2&gt;
+&lt;p&gt;This was my undergraduate thesis project (BMB433) at the Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, supervised by &lt;strong&gt;Papia Rahman&lt;/strong&gt;. I defended it and presented it as a poster in 2025.&lt;/p&gt;
+&lt;p&gt;Standard differential expression analysis finds genes that change a lot between tumor and normal tissue. It can miss regulators whose effect is subtle but important. This project used a deep learning framework to look for these hidden drivers in oropharyngeal carcinoma (OC).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; 26 public transcriptomic datasets (GEO / ArrayExpress) merged into 643 samples and 11,020 common genes. Batch effects were removed with ComBat.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latent features:&lt;/strong&gt; a Variational Autoencoder (VAE) compressed the expression data into a low-dimensional latent space. Models with 5 to 100 latent dimensions were compared, and a 50-dimensional ensemble was kept.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gene attribution:&lt;/strong&gt; Integrated Gradients scored how much each gene contributes to each latent variable. Genes that scored highly across many latent dimensions became candidate drivers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biology:&lt;/strong&gt; pathway enrichment and GSEA linked the latent variables to distinct biological programs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Validation:&lt;/strong&gt; MLP, CNN and LSTM classifiers trained on the candidate genes separated OC from normal samples. The MLP reached a mean AUPRC of 0.86 and AUROC of 0.80.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-finding-rap1gap2&#34;&gt;Key finding: RAP1GAP2&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;RAP1GAP2&lt;/strong&gt; had the highest latent-space importance. It was also the best single-gene classifier of OC (AUPRC 0.769), even though it was &lt;strong&gt;not significantly differentially expressed&lt;/strong&gt; between tumor and normal samples. Biologically, RAP1GAP2 inactivates the Rap1 GTPase. It may promote tumor invasion through Rap1–MAPK signaling, integrin and cadherin regulation, MMP secretion and Golgi-mediated secretion.&lt;/p&gt;
+&lt;p&gt;Future work will validate the role of RAP1GAP2 experimentally, connect it to clinical features, and apply the framework to other cancers and omics layers.&lt;/p&gt;
+&lt;h3 id=&#34;poster&#34;&gt;Poster&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://prokash21.github.io/paper/poster.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://prokash21.github.io/paper/poster.png&#34; alt=&#34;Poster: Deep Neural Profiling Reveals RAP1GAP2 as a Latent Regulator of Tumor Invasion in Oropharyngeal Carcinoma&#34; style=&#34;width:100%; border:1px solid #ddd;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;thesis-report&#34;&gt;Thesis report&lt;/h3&gt;
+&lt;iframe src=&#34;https://prokash21.github.io/paper/deep_neural_profiling_undergrad_thesis.pdf&#34; style=&#34;width:100%; height:80vh; border:1px solid #ddd;&#34; title=&#34;Undergraduate thesis report&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;If the report does not load here, &lt;a href=&#34;https://prokash21.github.io/paper/deep_neural_profiling_undergrad_thesis.pdf&#34;&gt;open the PDF&lt;/a&gt;. Version 1 is archived on &lt;a href=&#34;https://doi.org/10.5281/zenodo.17380032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt; and version 2 on &lt;a href=&#34;https://doi.org/10.5281/zenodo.23271125&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;. The code is on &lt;a href=&#34;https://github.com/Prokash21/Deep-Neural-Profiling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Partial Sequence of L1 Gene in HPV 16 and HPV 18 Isolated from Head-Neck Squamous Cell Carcinoma Tissues in Bangladesh</title>
       <link>https://prokash21.github.io/publication/hpv_manuscript/</link>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://prokash21.github.io/publication/hpv_manuscript/</guid>
@@ -29,37 +67,11 @@
     </item>
     
     <item>
-      <title>omicML: an integrative tool of bioinformatics and machine learning algorithms to identify transcriptomic biomarkers</title>
+      <title>omicML: An Integrative Bioinformatics and Machine Learning Framework for Transcriptomic Biomarker Identification</title>
       <link>https://prokash21.github.io/publication/omicml/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://prokash21.github.io/publication/omicml/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Deep neural profiling reveals RAP1GAP2 as a latent regulator of tumor invasion in Oropharyngeal Carcinoma</title>
-      <link>https://prokash21.github.io/publication/deep_profile/</link>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://prokash21.github.io/publication/deep_profile/</guid>
-      <description>&lt;h2 id=&#34;about-the-project&#34;&gt;About the project&lt;/h2&gt;
-&lt;p&gt;This was my undergraduate thesis project (BMB433) at the Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, supervised by &lt;strong&gt;Papia Rahman&lt;/strong&gt;. I defended it and presented it as a poster in 2025.&lt;/p&gt;
-&lt;p&gt;Standard differential expression analysis finds genes that change a lot between tumor and normal tissue. It can miss regulators whose effect is subtle but important. This project used a deep learning framework to look for these hidden drivers in oropharyngeal carcinoma (OC).&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; 26 public transcriptomic datasets (GEO / ArrayExpress) merged into 643 samples and 11,020 common genes. Batch effects were removed with ComBat.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Latent features:&lt;/strong&gt; a Variational Autoencoder (VAE) compressed the expression data into a low-dimensional latent space. Models with 5 to 100 latent dimensions were compared, and a 50-dimensional ensemble was kept.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Gene attribution:&lt;/strong&gt; Integrated Gradients scored how much each gene contributes to each latent variable. Genes that scored highly across many latent dimensions became candidate drivers.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Biology:&lt;/strong&gt; pathway enrichment and GSEA linked the latent variables to distinct biological programs.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Validation:&lt;/strong&gt; MLP, CNN and LSTM classifiers trained on the candidate genes separated OC from normal samples. The MLP reached a mean AUPRC of 0.86 and AUROC of 0.80.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;key-finding-rap1gap2&#34;&gt;Key finding: RAP1GAP2&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;RAP1GAP2&lt;/strong&gt; had the highest latent-space importance. It was also the best single-gene classifier of OC (AUPRC 0.769), even though it was &lt;strong&gt;not significantly differentially expressed&lt;/strong&gt; between tumor and normal samples. Biologically, RAP1GAP2 inactivates the Rap1 GTPase. It may promote tumor invasion through Rap1–MAPK signaling, integrin and cadherin regulation, MMP secretion and Golgi-mediated secretion.&lt;/p&gt;
-&lt;p&gt;Future work will validate the role of RAP1GAP2 experimentally, connect it to clinical features, and apply the framework to other cancers and omics layers.&lt;/p&gt;
-&lt;h2 id=&#34;poster&#34;&gt;Poster&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://prokash21.github.io/paper/poster.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://prokash21.github.io/paper/poster.png&#34; alt=&#34;Poster: Deep Neural Profiling Reveals RAP1GAP2 as a Latent Regulator of Tumor Invasion in Oropharyngeal Carcinoma&#34; style=&#34;width:100%; border:1px solid #ddd;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;thesis-report&#34;&gt;Thesis report&lt;/h2&gt;
-&lt;iframe src=&#34;https://prokash21.github.io/paper/deep_neural_profiling_undergrad_thesis.pdf&#34; style=&#34;width:100%; height:80vh; border:1px solid #ddd;&#34; title=&#34;Undergraduate thesis report&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;If the report does not load here, &lt;a href=&#34;https://prokash21.github.io/paper/deep_neural_profiling_undergrad_thesis.pdf&#34;&gt;open the PDF&lt;/a&gt;. The code is on &lt;a href=&#34;https://github.com/Prokash21/Deep-Neural-Profiling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, and the poster is archived on &lt;a href=&#34;https://doi.org/10.5281/zenodo.17380032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
