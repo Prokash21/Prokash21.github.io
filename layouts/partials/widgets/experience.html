@@ -33,18 +33,22 @@
           <h4 class="card-title exp-company text-muted my-0">
             {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
           </h4>
+          {{ if or .date_start .location }}
           <div class="text-muted exp-meta">
-            {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
-            {{ if .date_end}}
-              {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
+            {{ with .date_start }}
+            {{ (time .).Format ($page.Params.date_format | default "January 2006") }} –
+            {{ if $key.date_end}}
+              {{ (time $key.date_end).Format ($page.Params.date_format | default "January 2006") }}
             {{else}}
               {{ i18n "present" | default "Present" }}
             {{end}}
+            {{ end }}
             {{with .location}}
-              <span class="middot-divider"></span>
+              {{ if $key.date_start }}<span class="middot-divider"></span>{{ end }}
               <span>{{.}}</span>
             {{end}}
           </div>
+          {{ end }}
           {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
         </div>
       </div>
