@@ -969,7 +969,25 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style"><h2 id="about-the-project">About the project</h2>
+<p>This was my undergraduate thesis project (BMB433) at the Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, supervised by <strong>Papia Rahman</strong>. I defended it and presented it as a poster in 2025.</p>
+<p>Standard differential expression analysis finds genes that change a lot between tumor and normal tissue. It can miss regulators whose effect is subtle but important. This project used a deep learning framework to look for these hidden drivers in oropharyngeal carcinoma (OC).</p>
+<ul>
+<li><strong>Data:</strong> 26 public transcriptomic datasets (GEO / ArrayExpress) merged into 643 samples and 11,020 common genes. Batch effects were removed with ComBat.</li>
+<li><strong>Latent features:</strong> a Variational Autoencoder (VAE) compressed the expression data into a low-dimensional latent space. Models with 5 to 100 latent dimensions were compared, and a 50-dimensional ensemble was kept.</li>
+<li><strong>Gene attribution:</strong> Integrated Gradients scored how much each gene contributes to each latent variable. Genes that scored highly across many latent dimensions became candidate drivers.</li>
+<li><strong>Biology:</strong> pathway enrichment and GSEA linked the latent variables to distinct biological programs.</li>
+<li><strong>Validation:</strong> MLP, CNN and LSTM classifiers trained on the candidate genes separated OC from normal samples. The MLP reached a mean AUPRC of 0.86 and AUROC of 0.80.</li>
+</ul>
+<h2 id="key-finding-rap1gap2">Key finding: RAP1GAP2</h2>
+<p><strong>RAP1GAP2</strong> had the highest latent-space importance. It was also the best single-gene classifier of OC (AUPRC 0.769), even though it was <strong>not significantly differentially expressed</strong> between tumor and normal samples. Biologically, RAP1GAP2 inactivates the Rap1 GTPase. It may promote tumor invasion through Rap1–MAPK signaling, integrin and cadherin regulation, MMP secretion and Golgi-mediated secretion.</p>
+<p>Future work will validate the role of RAP1GAP2 experimentally, connect it to clinical features, and apply the framework to other cancers and omics layers.</p>
+<h2 id="poster">Poster</h2>
+<p><a href="/paper/poster.png" target="_blank"><img src="/paper/poster.png" alt="Poster: Deep Neural Profiling Reveals RAP1GAP2 as a Latent Regulator of Tumor Invasion in Oropharyngeal Carcinoma" style="width:100%; border:1px solid #ddd;"></a></p>
+<h2 id="thesis-report">Thesis report</h2>
+<iframe src="/paper/deep_neural_profiling_undergrad_thesis.pdf" style="width:100%; height:80vh; border:1px solid #ddd;" title="Undergraduate thesis report"></iframe>
+<p>If the report does not load here, <a href="/paper/deep_neural_profiling_undergrad_thesis.pdf">open the PDF</a>. The code is on <a href="https://github.com/Prokash21/Deep-Neural-Profiling" target="_blank" rel="noopener">GitHub</a>, and the poster is archived on <a href="https://doi.org/10.5281/zenodo.17380032" target="_blank" rel="noopener">Zenodo</a>.</p>
+</div>
 
     
 

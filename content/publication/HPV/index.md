@@ -55,7 +55,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
  - name: Best Poster Award
-   url: https://sciforum.net/event/wisomviruses2025?section=#PostConference
+   url: https://sciforum.net/event/wisomviruses2025/#postconference
 
 url_pdf: ''
 url_code: 'https://github.com/Prokash21/HNSCC-HPV'
@@ -68,10 +68,10 @@ url_video: ''
 
 # featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'Best Poster Award, 11th Wuhan International Symposium on Modern Virology & Viruses 2025 ([Sciforum](https://sciforum.net/event/wisomviruses2025/#postconference))'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -88,3 +88,19 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: crossmap
 ---
+
+## 🏆 Best Poster Award
+
+This work won the **Best Poster Award** at the [11th Wuhan International Symposium on Modern Virology & Viruses 2025](https://sciforum.net/event/wisomviruses2025/#postconference). The poster was presented by **S M Rashed Ul Islam**. The work was also accepted at IPVS 2025, and the HPV L1 sequences are published in NCBI GenBank.
+
+## About the study
+
+This study combines clinical metadata, histopathology, HPV molecular typing and machine learning to investigate the role of HPV in head and neck squamous cell carcinoma (HNSCC) in Bangladesh.
+
+- **Clinical cohort:** 214 histopathologically confirmed HNSCC tissues, with patient risk factors such as smoking, alcohol, betel quid and smokeless tobacco
+- **Wet lab:** punch biopsy, paraffin-embedded tissue and histopathological review
+- **HPV typing:** multiplex PCR and Sanger sequencing of the L1 gene, focusing on high-risk types
+- **Immunohistochemistry:** p16INK4a, cyclin D1 and p53 expression in HPV-positive tissues
+- **Machine learning:** classifiers benchmarked with PyCaret using stratified cross-validation and hyperparameter tuning. Linear Discriminant Analysis performed best (AUC 0.874) and ranked HPV infection as the top feature.
+
+Code, notebooks and representative figures are on [GitHub](https://github.com/Prokash21/HNSCC-HPV). Raw data are withheld until publication.

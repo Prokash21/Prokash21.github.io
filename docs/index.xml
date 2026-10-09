@@ -50,7 +50,25 @@
       <link>https://prokash21.github.io/publication/deep_profile/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://prokash21.github.io/publication/deep_profile/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;about-the-project&#34;&gt;About the project&lt;/h2&gt;
+&lt;p&gt;This was my undergraduate thesis project (BMB433) at the Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, supervised by &lt;strong&gt;Papia Rahman&lt;/strong&gt;. I defended it and presented it as a poster in 2025.&lt;/p&gt;
+&lt;p&gt;Standard differential expression analysis finds genes that change a lot between tumor and normal tissue. It can miss regulators whose effect is subtle but important. This project used a deep learning framework to look for these hidden drivers in oropharyngeal carcinoma (OC).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data:&lt;/strong&gt; 26 public transcriptomic datasets (GEO / ArrayExpress) merged into 643 samples and 11,020 common genes. Batch effects were removed with ComBat.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Latent features:&lt;/strong&gt; a Variational Autoencoder (VAE) compressed the expression data into a low-dimensional latent space. Models with 5 to 100 latent dimensions were compared, and a 50-dimensional ensemble was kept.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gene attribution:&lt;/strong&gt; Integrated Gradients scored how much each gene contributes to each latent variable. Genes that scored highly across many latent dimensions became candidate drivers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Biology:&lt;/strong&gt; pathway enrichment and GSEA linked the latent variables to distinct biological programs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Validation:&lt;/strong&gt; MLP, CNN and LSTM classifiers trained on the candidate genes separated OC from normal samples. The MLP reached a mean AUPRC of 0.86 and AUROC of 0.80.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-finding-rap1gap2&#34;&gt;Key finding: RAP1GAP2&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;RAP1GAP2&lt;/strong&gt; had the highest latent-space importance. It was also the best single-gene classifier of OC (AUPRC 0.769), even though it was &lt;strong&gt;not significantly differentially expressed&lt;/strong&gt; between tumor and normal samples. Biologically, RAP1GAP2 inactivates the Rap1 GTPase. It may promote tumor invasion through Rap1–MAPK signaling, integrin and cadherin regulation, MMP secretion and Golgi-mediated secretion.&lt;/p&gt;
+&lt;p&gt;Future work will validate the role of RAP1GAP2 experimentally, connect it to clinical features, and apply the framework to other cancers and omics layers.&lt;/p&gt;
+&lt;h2 id=&#34;poster&#34;&gt;Poster&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://prokash21.github.io/paper/poster.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://prokash21.github.io/paper/poster.png&#34; alt=&#34;Poster: Deep Neural Profiling Reveals RAP1GAP2 as a Latent Regulator of Tumor Invasion in Oropharyngeal Carcinoma&#34; style=&#34;width:100%; border:1px solid #ddd;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;thesis-report&#34;&gt;Thesis report&lt;/h2&gt;
+&lt;iframe src=&#34;https://prokash21.github.io/paper/deep_neural_profiling_undergrad_thesis.pdf&#34; style=&#34;width:100%; height:80vh; border:1px solid #ddd;&#34; title=&#34;Undergraduate thesis report&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;If the report does not load here, &lt;a href=&#34;https://prokash21.github.io/paper/deep_neural_profiling_undergrad_thesis.pdf&#34;&gt;open the PDF&lt;/a&gt;. The code is on &lt;a href=&#34;https://github.com/Prokash21/Deep-Neural-Profiling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, and the poster is archived on &lt;a href=&#34;https://doi.org/10.5281/zenodo.17380032&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zenodo&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,7 +76,19 @@
       <link>https://prokash21.github.io/publication/hpv/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://prokash21.github.io/publication/hpv/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;-best-poster-award&#34;&gt;🏆 Best Poster Award&lt;/h2&gt;
+&lt;p&gt;This work won the &lt;strong&gt;Best Poster Award&lt;/strong&gt; at the &lt;a href=&#34;https://sciforum.net/event/wisomviruses2025/#postconference&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;11th Wuhan International Symposium on Modern Virology &amp;amp; Viruses 2025&lt;/a&gt;. The poster was presented by &lt;strong&gt;S M Rashed Ul Islam&lt;/strong&gt;. The work was also accepted at IPVS 2025, and the HPV L1 sequences are published in NCBI GenBank.&lt;/p&gt;
+&lt;h2 id=&#34;about-the-study&#34;&gt;About the study&lt;/h2&gt;
+&lt;p&gt;This study combines clinical metadata, histopathology, HPV molecular typing and machine learning to investigate the role of HPV in head and neck squamous cell carcinoma (HNSCC) in Bangladesh.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clinical cohort:&lt;/strong&gt; 214 histopathologically confirmed HNSCC tissues, with patient risk factors such as smoking, alcohol, betel quid and smokeless tobacco&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wet lab:&lt;/strong&gt; punch biopsy, paraffin-embedded tissue and histopathological review&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HPV typing:&lt;/strong&gt; multiplex PCR and Sanger sequencing of the L1 gene, focusing on high-risk types&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Immunohistochemistry:&lt;/strong&gt; p16INK4a, cyclin D1 and p53 expression in HPV-positive tissues&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine learning:&lt;/strong&gt; classifiers benchmarked with PyCaret using stratified cross-validation and hyperparameter tuning. Linear Discriminant Analysis performed best (AUC 0.874) and ranked HPV infection as the top feature.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Code, notebooks and representative figures are on &lt;a href=&#34;https://github.com/Prokash21/HNSCC-HPV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Raw data are withheld until publication.&lt;/p&gt;
+</description>
     </item>
     
     <item>

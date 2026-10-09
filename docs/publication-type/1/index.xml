@@ -17,7 +17,19 @@
       <link>https://prokash21.github.io/publication/hpv/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://prokash21.github.io/publication/hpv/</guid>
-      <description></description>
+      <description>&lt;h2 id=&#34;-best-poster-award&#34;&gt;🏆 Best Poster Award&lt;/h2&gt;
+&lt;p&gt;This work won the &lt;strong&gt;Best Poster Award&lt;/strong&gt; at the &lt;a href=&#34;https://sciforum.net/event/wisomviruses2025/#postconference&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;11th Wuhan International Symposium on Modern Virology &amp;amp; Viruses 2025&lt;/a&gt;. The poster was presented by &lt;strong&gt;S M Rashed Ul Islam&lt;/strong&gt;. The work was also accepted at IPVS 2025, and the HPV L1 sequences are published in NCBI GenBank.&lt;/p&gt;
+&lt;h2 id=&#34;about-the-study&#34;&gt;About the study&lt;/h2&gt;
+&lt;p&gt;This study combines clinical metadata, histopathology, HPV molecular typing and machine learning to investigate the role of HPV in head and neck squamous cell carcinoma (HNSCC) in Bangladesh.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Clinical cohort:&lt;/strong&gt; 214 histopathologically confirmed HNSCC tissues, with patient risk factors such as smoking, alcohol, betel quid and smokeless tobacco&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wet lab:&lt;/strong&gt; punch biopsy, paraffin-embedded tissue and histopathological review&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HPV typing:&lt;/strong&gt; multiplex PCR and Sanger sequencing of the L1 gene, focusing on high-risk types&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Immunohistochemistry:&lt;/strong&gt; p16INK4a, cyclin D1 and p53 expression in HPV-positive tissues&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine learning:&lt;/strong&gt; classifiers benchmarked with PyCaret using stratified cross-validation and hyperparameter tuning. Linear Discriminant Analysis performed best (AUC 0.874) and ranked HPV infection as the top feature.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Code, notebooks and representative figures are on &lt;a href=&#34;https://github.com/Prokash21/HNSCC-HPV&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;. Raw data are withheld until publication.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
