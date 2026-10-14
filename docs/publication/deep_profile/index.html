@@ -875,7 +875,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/paper/deep_neural_profiling_v2_manuscript.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/paper/deep_neural_profiling_manuscript.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -959,7 +959,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Preprint (v2), published in <em>Zenodo</em>. Extends the undergraduate thesis (v1, <a href="https://doi.org/10.5281/zenodo.17380032" target="_blank" rel="noopener">10.5281/zenodo.17380032</a>) with methylation and multi-omic analyses</div>
+          <div class="col-12 col-md-9">Preprint, published in <em>Zenodo</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -969,36 +969,14 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><h2 id="whats-new-in-version-2-october-2026">What&rsquo;s new in version 2 (October 2026)</h2>
-<p>Version 2 extends my undergraduate thesis into a preprint on <strong>head and neck squamous cell carcinoma (HNSCC)</strong>. It keeps the same deep learning framework and adds a multi-omic follow-up of RAP1GAP2:</p>
-<ul>
-<li><strong>No differential expression, confirmed:</strong> RAP1GAP2 is not differentially expressed in 43 paired TCGA-HNSC patients or 20 paired GSE178537 patients.</li>
-<li><strong>Methylation:</strong> the RAP1GAP2 promoter is hypomethylated in tumours, but this only weakly tracks its expression.</li>
-<li><strong>Mutation, copy number and survival:</strong> RAP1GAP2 is rarely mutated (1/515), shows only shallow copy-number changes, and is not linked to overall survival.</li>
-<li><strong>Genome-wide methylation:</strong> TCGA-HNSC 450K arrays identify 163 hypermethylated-downregulated and 42 hypomethylated-upregulated genes.</li>
-</ul>
-<p>So RAP1GAP2&rsquo;s signal is not explained by mutation, copy number or methylation, and its role now needs experimental validation.</p>
-<h3 id="manuscript-v2">Manuscript (v2)</h3>
-<iframe src="/paper/deep_neural_profiling_v2_manuscript.pdf" style="width:100%; height:80vh; border:1px solid #ddd;" title="Version 2 manuscript"></iframe>
-<p>If the manuscript does not load here, <a href="/paper/deep_neural_profiling_v2_manuscript.pdf">open the PDF</a>. Supplementary Tables S1–S10: <a href="/paper/deep_neural_profiling_v2_supplementary_tables.xlsx">download (.xlsx)</a>.</p>
-<h2 id="version-1-undergraduate-thesis-2025">Version 1: undergraduate thesis (2025)</h2>
-<p>This was my undergraduate thesis project (BMB433) at the Department of Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, supervised by <strong>Papia Rahman</strong>. I defended it and presented it as a poster in 2025.</p>
-<p>Standard differential expression analysis finds genes that change a lot between tumor and normal tissue. It can miss regulators whose effect is subtle but important. This project used a deep learning framework to look for these latent regulators in head and neck squamous cell carcinoma (HNSCC). The report is titled <em>Deep Neural Profiling Identifies RAP1GAP2 as a Latent Regulator in Head and Neck Squamous Cell Carcinoma</em>.</p>
-<ul>
-<li><strong>Data:</strong> 26 public transcriptomic datasets (GEO / ArrayExpress) merged into 643 samples and 11,020 common genes. Batch effects were removed with ComBat.</li>
-<li><strong>Latent features:</strong> a Variational Autoencoder (VAE) compressed the expression data into a low-dimensional latent space. Models with 5 to 100 latent dimensions were compared, and a 50-dimensional ensemble was kept.</li>
-<li><strong>Gene attribution:</strong> Integrated Gradients scored how much each gene contributes to each latent variable. Genes that scored highly across many latent dimensions became candidate regulators.</li>
-<li><strong>Biology:</strong> pathway enrichment and GSEA linked the latent variables to distinct biological programs.</li>
-<li><strong>Validation:</strong> MLP, CNN and LSTM classifiers trained on the candidate genes separated HNSCC from normal samples. The MLP reached a mean AUPRC of 0.86 and AUROC of 0.80.</li>
-</ul>
-<h3 id="key-finding-rap1gap2">Key finding: RAP1GAP2</h3>
-<p><strong>RAP1GAP2</strong> had the highest latent-space importance. It was also the best single-gene classifier of HNSCC (AUPRC 0.769), even though it was <strong>not significantly differentially expressed</strong> between tumor and normal samples. Biologically, RAP1GAP2 inactivates the Rap1 GTPase. It may promote tumor invasion through Rap1–MAPK signaling, integrin and cadherin regulation, MMP secretion and Golgi-mediated secretion.</p>
-<p>Future work will validate the role of RAP1GAP2 experimentally, connect it to clinical features, and apply the framework to other cancers and omics layers.</p>
-<h3 id="poster">Poster</h3>
+    <div class="article-style"><h2 id="manuscript">Manuscript</h2>
+<iframe src="/paper/deep_neural_profiling_manuscript.pdf" style="width:100%; height:80vh; border:1px solid #ddd;" title="Manuscript"></iframe>
+<p>If the manuscript does not load here, <a href="/paper/deep_neural_profiling_manuscript.pdf">open the PDF</a>. Supplementary Tables S1–S10: <a href="/paper/deep_neural_profiling_supplementary_tables.xlsx">download (.xlsx)</a>.</p>
+<h2 id="poster">Poster</h2>
 <p><a href="/paper/poster.png" target="_blank"><img src="/paper/poster.png" alt="Poster: Deep Neural Profiling Identifies RAP1GAP2 as a Latent Regulator in Head and Neck Squamous Cell Carcinoma" style="width:100%; border:1px solid #ddd;"></a></p>
-<h3 id="thesis-report">Thesis report</h3>
-<iframe src="/paper/deep_neural_profiling_undergrad_thesis.pdf" style="width:100%; height:80vh; border:1px solid #ddd;" title="Undergraduate thesis report"></iframe>
-<p>If the report does not load here, <a href="/paper/deep_neural_profiling_undergrad_thesis.pdf">open the PDF</a>. Version 1 is archived on <a href="https://doi.org/10.5281/zenodo.17380032" target="_blank" rel="noopener">Zenodo</a> and version 2 on <a href="https://doi.org/10.5281/zenodo.23271125" target="_blank" rel="noopener">Zenodo</a>. The code is on <a href="https://github.com/Prokash21/Deep-Neural-Profiling" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="project-report">Project report</h2>
+<iframe src="/paper/deep_neural_profiling_report.pdf" style="width:100%; height:80vh; border:1px solid #ddd;" title="Project report"></iframe>
+<p>If the report does not load here, <a href="/paper/deep_neural_profiling_report.pdf">open the PDF</a>. Archived on <a href="https://doi.org/10.5281/zenodo.23271125" target="_blank" rel="noopener">Zenodo</a>. The code is on <a href="https://github.com/Prokash21/Deep-Neural-Profiling" target="_blank" rel="noopener">GitHub</a>.</p>
 </div>
 
     
