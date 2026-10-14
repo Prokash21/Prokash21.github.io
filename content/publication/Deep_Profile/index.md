@@ -15,7 +15,7 @@ authors:
 # - "Corresponding Author"
 
 date: "2026-10-09T00:00:00Z"
-doi: "10.5281/zenodo.23271125"
+doi: "10.5281/zenodo.23377557"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-03T00:00:00Z"
@@ -98,4 +98,4 @@ If the manuscript does not load here, [open the PDF](/paper/deep_neural_profilin
 
 <iframe src="/paper/deep_neural_profiling_report.pdf" style="width:100%; height:80vh; border:1px solid #ddd;" title="Project report"></iframe>
 
-If the report does not load here, [open the PDF](/paper/deep_neural_profiling_report.pdf). Archived on [Zenodo](https://doi.org/10.5281/zenodo.23271125). The code is on [GitHub](https://github.com/Prokash21/Deep-Neural-Profiling).
+If the report does not load here, [open the PDF](/paper/deep_neural_profiling_report.pdf). Archived on [Zenodo](https://doi.org/10.5281/zenodo.23377557). The code is on [GitHub](https://github.com/Prokash21/Deep-Neural-Profiling).
