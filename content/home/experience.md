@@ -79,12 +79,12 @@ experience:
       Supervisors: [Dr. Tanvir Hossain](https://scholar.google.com/citations?user=UsY6uSEAAAAJ&hl=en), Assistant Professor; [Papia Rahman](https://www.sust.edu/departments/bmb/faculty/papia-bmb@sust.edu), Lecturer
       
       Responsibilities and Experience:
-      - Applied a variational autoencoder (VAE) with integrated gradients to 643 Oropharyngeal Carcinoma transcriptomes integrated from 26 datasets to identify candidate genes from latent-space attribution.
+      - Applied a variational autoencoder (VAE) with integrated gradients to 643 head and neck squamous cell carcinoma (HNSCC) transcriptomes integrated from 26 datasets to identify candidate genes from latent-space attribution.
       - Assessed the candidate genes' differential expression, copy number, mutation, and survival association.
       - Performed differential methylation analysis on TCGA-HNSC 450K arrays and integrated hyper- and hypomethylated promoter genes with DEGs.
 
       Project:
-      - Beyond Differential Expression: Deep Neural Profiling reveals RAP1GAP2 as a latent regulator of tumor invasion in Oropharyngeal Carcinoma.
+      - Deep Neural Profiling Identifies RAP1GAP2 as a Latent Regulator in Head and Neck Squamous Cell Carcinoma.
       
       GitHub: 
       - [Deep-Neural-Profiling](https://github.com/Prokash21/Deep-Neural-Profiling)
